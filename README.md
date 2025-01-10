@@ -3,8 +3,8 @@
 ##在comfyui中使用
 1.首先你需要安装[ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)。<br>
 2.找到Custom-Scripts的设置选项。
-![2](./iamge/2.png)
+![2](./image/2.png)
 3.清除原来的文本并粘贴txt里的内容，然后保存。
 ![3](./image/3.png)
 4.如果成功，你应该会看到以下画面。
-![1](./iamge/1.png)
+![1](./image/1.png)
