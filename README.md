@@ -1,6 +1,6 @@
 # danbooru-tag-zh
 使用deepseek的api对danbooru的词条进行简单的翻译（准确性略低）。原数据来自BetaDoggo的[danbooru-tag-list](https://github.com/BetaDoggo/danbooru-tag-list)<br>
-##在comfyui中使用
+##在comfyui中使用<br>
 1.首先你需要安装[ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)。<br>
 2.找到Custom-Scripts的设置选项。
 ![2](./image/2.png)
