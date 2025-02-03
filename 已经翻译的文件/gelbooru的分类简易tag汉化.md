@@ -1,0 +1,3001 @@
+- 乳房
+  collapsed:: true
+	- ### 乳房大小范围
+	- **Flat_chest** (平胸，贫乳，小胸部)
+	  collapsed:: true
+		- *Loli* (萝莉)
+	- **Medium_breasts** (中等胸部)
+	- **Large_breasts** (大胸部)
+	- **Huge_breasts** (巨大胸部)
+	- **Gigantic_breasts** (巨大胸部)
+	- ### 围绕乳房大小的场景
+	- **Breast_envy** (胸部羡慕)
+	- **Breast_expansion** (胸部扩张)
+	- **Breast_padding** (胸部填充)
+	- **Bust_chart** (胸围图)
+	- **Bust_measuring** (胸围测量)
+	- ### 可见性
+	- #### 乳房可见部分
+	- **Areolae** (乳晕)
+		- *Glands_of_montgomery* (蒙哥马利腺)
+		- *Large_areolae* (大乳晕)
+	- **Backboob** (背部乳房)
+	- **Bursting_breasts** (爆乳)
+	- **Center_opening** (中心开口)
+	- **Cleavage** (乳沟)
+		- *Cleavage_cutout* (乳沟剪裁)
+		- *Heart_cleavage_cutout* (心形乳沟剪裁)
+	- **Nipples** (乳头)
+		- *Dark_nipples* (深色乳头)
+		- *Erect_nipples* (勃起乳头)
+		- *Inverted_nipples* (内陷乳头)
+		- *Nippleless_clothing* (无乳头服装)
+		- *Nipple_slip* (乳头滑出)
+		- *No_nipples* (无乳头)
+		- *Puffy_nipples* (膨胀乳头)
+		- *Small_nipples* (小乳头)
+		- *nipple_erection* (乳头勃起)
+	- **Sideboob** (侧乳)
+	- **Underboob** (下乳)
+	- #### 整个乳房可见
+	- **Breast_slip** (乳房滑出)
+	- *breastless_clothes* (无胸衣)
+	- **Breasts_outside** (乳房外露)
+	- **Impossible_shirt** (不可能的衬衫)
+	- **One_breast_out** (单乳外露)
+	- ### 乳房描述
+	- **Bouncing_breasts** (跳动的乳房)
+	- **Breasts_apart** (乳房分开)
+	- **Floating_breasts** (漂浮乳房)
+	- **Hanging_breasts** (下垂乳房)
+	- **Perky_breasts** (挺拔乳房)
+	- **Sagging_breasts** (下垂乳房)
+	- **Unaligned_breasts** (不对齐乳房)
+	- ### 乳房服装
+	- **Bra** (胸罩)
+		- *Hand_in_bra* (手在胸罩内)
+	- **Bustier** (紧身胸衣)
+	- **Corset** (紧身胸衣)
+	- **Taut_shirt** (紧身衬衫)
+	- ### 乳房与其他身体部位
+	- collapsed:: true
+	  
+	  **Paizuri** (乳交)
+		- *Cooperative_paizuri* (合作乳交)
+		- *Naizuri* (乳夹)
+		- *Cooperative_naizuri* (合作乳夹)
+		- *Paizuri_under_clothes* (衣物下的乳交)
+		- *Paizuri_over_clothes* (衣物上的乳交)
+		- *Reverse_paizuri* (反向乳交)
+		- *Perpendicular_paizuri* (垂直乳交)
+		- *Straddling_paizuri* (跨坐乳交)
+		- *No-hands_paizuri* (无手乳交)
+	- collapsed:: true
+	  
+	  **Head on breasts** (头在乳房上)
+		- **Breast_smother** (乳房窒息)
+		- *Breast_pillow* (乳房枕头)
+		- *self_pillow* (自枕)
+		- **Breasts_on_head** (乳房在头上)
+		- **Head_between_breasts** (头在乳房间)
+	- **Mouth on breasts** (嘴在乳房上)
+		- **Breast_feeding** (哺乳)
+		- **Breast_licking** (舔乳房)
+		- **Breast_sucking** (吸乳房)
+		- *Self_breast_sucking* (自吸乳房)
+	- collapsed:: true
+	  
+	  **Hands on breasts** (手在乳房上)
+		- **Arm_between_breasts** (手臂在乳房间)
+		- **Breast_hold** (自己乳房)
+		- **Breast_lift** (乳房提升)
+		- **Breast_poke** (戳乳房)
+		- **Breast_press** (压乳房)
+		- **breasts_squeezed_together** (乳房挤在一起)
+		- **Breast_suppress** (乳房压制)
+		- **Grabbing_another's_breast** (抓别人的乳房)
+			- *Flat_chest_grab* (平胸抓)
+			- *Guided_breast_grab* (引导乳房抓)
+		- **Grabbing_own_breast** (抓自己的乳房)
+		- **Groping** (摸索)
+		- *Hand_in_bra* (手在胸罩内)
+		- **Nipple_tweak** (乳头扭)
+	- collapsed:: true
+	  
+	  **Docking** (乳房对乳房)
+		- **Asymmetrical_docking** (不对称对接)
+		- **Symmetrical_docking** (对称对接)
+		- **Nipple_to_nipple** (乳头对乳头)
+	- ### 其他
+	- **Between_breasts** (乳房之间)
+	  collapsed:: true
+		- *Card_between_breasts* (卡片在乳房间)
+		- *Hand_between_breasts* (手在乳房间)
+		- *Head_between_breasts* (头在乳房间)
+		- *Necktie_between_breasts* (领带在乳房间)
+		- *Strap_cleavage* (带子乳沟)
+	- **Breast_bondage** (乳房束缚)
+	- **Breast_mousepad** (乳房鼠标垫)
+	- **Breast_rest** (乳房休息)
+	- **Bust_cup** (胸围杯)
+	- **Covering_breasts** (覆盖乳房)
+	- **Cum_on_breasts** (精液在乳房上)
+	- **Lactation** (哺乳)
+	  collapsed:: true
+		- *Lactation_through_clothes* (衣物下哺乳)
+		- *Lactation_after_death* (死后哺乳)
+		- *Autolactation* (自我哺乳)
+		- *Milk_squirt* (乳汁喷射)
+	- **Milking** (挤奶)
+	- **Nipple_piercing** (乳头穿孔)
+	  collapsed:: true
+		- *Areola_piercing* (乳晕穿孔)
+		- *Nipple_rings* (乳头环)
+- 阴部
+  collapsed:: true
+	- 以下是对STABLEDIFFUSION词条“Anatomy of the pussy”的整理分类和翻译，每个英文词条后面都加上了逗号：
+	- ### 女性生殖器官解剖
+	- Clitoris, (阴蒂)
+		- Erect_clitoris, (勃起的阴蒂)
+	- Pubic_hair, (阴毛)
+	- Pussy, (女性生殖器)
+		- No_pussy, (无女性生殖器)
+	- ### 衣物下的女性生殖器
+	- Cameltoe, (骆驼趾)
+	- Spread_pussy_under_clothes, (衣物下展开的女性生殖器)
+	- ### 手与女性生殖器
+	- Clitoris_tweak, (扭阴蒂)
+	- Covering_crotch, (覆盖胯部)
+	- Hand_between_legs, (手在腿间)
+	- Spread_pussy, (展开的女性生殖器)
+		- Tag_group:Sex_acts,
+			- Fingering, (手指插入)
+			- Masturbation, (自慰)
+	- ### 女性生殖器的可见部分
+	- Clitoris_slip, (阴蒂滑出)
+	- Partially_visible_vulva, (部分可见的外阴)
+	- Pussy_peek, (偷窥女性生殖器)
+	- ### 女性生殖器与体液
+	- Cum_in_pussy, (在女性生殖器内的精液)
+	- Cum_on_pussy, (在女性生殖器上的精液)
+	- Pussy_juice, (女性体液)
+		- Pussy_juice_puddle, (女性体液积聚)
+		- Pussy_juice_trail, (女性体液痕迹)
+	- ### 涉及女性生殖器的性行为和性用品
+		- Tag_group:Sex_acts,
+			- Clitoris_pull, (拉阴蒂)
+			- Clitoris_torture, (阴蒂折磨)
+			- Sex, (性行为)
+		- Tag_group:Sex_objects,
+			- Artificial_vagina, (人造阴道)
+			- Clitoris_clamp, (阴蒂夹)
+			- Clitoris_leash, (阴蒂牵引带)
+			- Pussy_clamp, (女性生殖器夹)
+		- Vaginal,
+			- Gun_in_pussy, (枪在女性生殖器内)
+			- Phone_in_pussy, (手机在女性生殖器内)
+	- ### 女性生殖器装饰
+	- Clitoris_piercing, (阴蒂穿孔)
+	- Clitoris_ring, (阴蒂环)
+	- ### 女性生殖器服饰
+		- Tag_group:Sexual_attire,
+			- Bandaid_on_pussy, (女性生殖器上的创可贴)
+			- Maebari, (露出)
+			- Tag_group:Panties,
+				- Panties, (内裤)
+			- Strapless_bottom, (无肩带下装)
+		- Swimsuit,
+			- Bikini_bottom, (比基尼下装) 
+			  
+			  请注意，这些词条涉及成人内容，应在适当的上下文中谨慎使用。
+- 体型
+  collapsed:: true
+	- ### 体型
+	- Curvy, (曲线型) 丰满、曲线明显的身体。这意味着大胸部、大臀部和/或宽臀部。如果有明显的腹部脂肪，根据数量，可能被标记为丰满或肥胖。想象一下模特。
+	- Plump, (丰满型) 类似于曲线型，只是腹部更突出。想象一下成熟的女性。
+	- ### 体重
+	- Fat, (肥胖) 对于有过多脂肪的人，以至于脂肪下垂并储存在不太传统吸引人的地方，如脸部或小腿。
+		- Fat_man, (肥胖男性) 特指肥胖的男性。
+	- Obese, (极度肥胖) 极度肥胖。
+	- Skinny, (瘦弱) 纤细的手臂，腹部可以看到一些骨头，腹部不会溢出。
+	- Emaciated, (极度消瘦) 当骨头非常明显时。接近令人不安。
+	- ### 身高
+	- Tall, (高个子)
+		- Tall_Female, (高个子女性)
+		- Tall_Male, (高个子男性)
+	- Petite, (娇小) 矮小且瘦弱的女性。
+		- Miniboy, (小男孩) 非常小的男孩，无论他们的身体可能是什么样子。
+		- Minigirl, (小女孩) 非常小的女孩，无论她们的身体可能是什么样子。
+	- ### 肌肉
+	- Muscle, (肌肉) 可见的肌肉；不是瘦弱或只是结实。
+		- Muscular_female, (肌肉女性) 特指肌肉发达的女性。
+		- Muscular_male, (肌肉男性) 特指肌肉发达的男性。
+	- Toned, (结实) 有一些定义，但不是肌肉发达。
+- 姿势
+  collapsed:: true
+	- ### 姿势
+	- Air_guitar, (空气吉他)
+	- All_fours, (四肢着地)
+		- Orz, (跪拜)
+	- Arched_back, (弓背)
+	- Arms_behind_back, (双臂背后)
+		- Arm_behind_back, (单臂背后)
+	- Arm_support, (手臂支撑)
+	- Arm_up, (手臂上举)
+		- Arm_behind_head, (手臂后脑)
+		- Victory_pose, (胜利姿势)
+		- V_over_eye, (V字手势遮眼)
+		- Salute, (敬礼)
+	- Arms_up, (双臂上举)
+		- \o/, (摇滚手势)
+		- Arms_behind_head, (双臂后脑)
+	- Back-to-back, (背靠背)
+	- Bent_over, (弯腰)
+	- Chest_stand, (胸部支撑)
+	- Chin_rest, (下巴休息)
+	- Chin_stroking, (摸下巴)
+	- Circle_formation, (圆形排列)
+	- Cowering, (畏缩)
+	- Crossed_arms, (交叉双臂)
+	- Crucifixion, (十字架姿势)
+	- Eye_contact, (眼神接触)
+	- Fighting_stance, (战斗姿态)
+		- Battoujutsu_stance, (拔刀术姿势)
+	- Flexing, (肌肉展示)
+	- Hand_in_pocket, (手插口袋)
+		- Hands_in_pockets, (双手插口袋)
+	- Hand_on_another's_chest, (手放在他人胸前)
+	- Hand_on_ass, (手放在臀部)
+	- Hand_on_ear, (手放在耳朵)
+	- Hand_on_head, (手放在头上)
+		- Hand_on_headwear, (手放在头饰上)
+	- Hand_on_hip, (手放在髋部)
+	- Hand_on_shoulder, (手放在肩膀)
+	- Hands_clasped, (双手紧握)
+	- Hands_on_face, (手放在脸上)
+	- Hands_on_feet, (手放在脚上)
+	- Hands_on_hips, (手放在臀部)
+	- Hands_on_knees, (手放在膝盖)
+	- Handstand, (倒立)
+	- Headstand, (头手倒立)
+	- Holding_hands, (手牵手)
+	- Interlocked_fingers, (交叉手指)
+	- Jumping, (跳跃)
+		- Kneeling, (跪着)
+	- Knees_touching, (膝盖相触)
+	- Leaning_back, (向后倾斜)
+	- Leaning_forward, (向前倾斜)
+	- Leg_lift, (抬腿)
+	- Leg_lock, (锁腿)
+	- Leg_up, (腿上举)
+	- Legs_up, (双腿上举)
+		- Knees_on_chest, (膝盖放在胸部)
+	- Looking_at_viewer, (看向观众)
+	- Looking_Through_Legs, (透过腿部看)
+	- Looking_back, (回头看)
+	- Lying, (躺着)
+		- Fetal_position, (胎儿姿势)
+		- On_back, (仰卧)
+		- On_side, (侧卧)
+		- On_stomach, (俯卧)
+	- Outstretched_arm, (伸展的手臂)
+	- Outstretched_arms, (伸展的双臂)
+	- Outstretched_hand, (伸展的手)
+	- Outstretched_leg, (伸展的腿)
+	- Pigeon-toed, (内八字脚)
+	- Princess_carry, (公主抱)
+	- Reclining, (斜倚)
+	- Shrug, (耸肩)
+		- Sitting, (坐着)
+		- Butterfly_sitting, (蝴蝶坐)
+		- Crossed_legs, (交叉双腿)
+		- Indian_style, (印第安式)
+		- Leg_hug, (抱腿坐)
+		- Lotus_position, (莲花坐)
+		- Seiza, (正坐)
+		- Sitting_on_lap, (坐在大腿上)
+		- Sitting_on_person, (坐在人身上)
+		- Wariza, (轻松坐)
+		- Yokozuwari, (横坐)
+	- Steepled_fingers, (指尖相对)
+	- Split, (劈叉)
+	- Spread_arms, (展开双臂)
+		- Spread_legs, (展开双腿)
+	- Squatting, (蹲下)
+		- Standing, (站立)
+		- Balancing, (平衡)
+		- Legs_apart, (双腿分开)
+		- Standing_on_one_leg, (单腿站立)
+	- Straddling, (跨坐)
+		- Thigh_straddling, (大腿跨坐)
+	- Stretch, (伸展)
+	- Top-down_bottom-up, (上下颠倒)
+	- V_arms, (V字臂)
+	- Yoga, (瑜伽)
+	- ### 姿势
+	- Animal_pose, (动物姿势)
+		- Bunny_pose, (兔子姿势)
+		- Horns_pose, (角姿势)
+		- Paw_pose, (爪姿势)
+	- Archer_pose, (弓箭手姿势)
+	- Awkward_pose, (尴尬姿势)
+	- Bras_d'honneur, (致敬姿势)
+	- Body_bridge, (身体桥)
+	- Contrapposto, (对立平衡)
+	- Dojikko_pose, (笨拙姿势)
+	- Gendou_pose, (电击姿势)
+	- Inugami-ke_no_ichizoku_pose, (犬神家族姿势)
+	- JoJo_pose, (JoJo姿势)
+	- Letter_pose, (字母姿势)
+	- Ojou-sama_pose, (大小姐姿势)
+	- Saboten_pose, (仙人掌姿势)
+	- Symmetrical_hand_pose, (对称手势)
+	- Victory_pose, (胜利姿势)
+	- Villain_pose, (反派姿势)
+	- Zombie_pose, (僵尸姿势)
+- 袜/裤袜
+  collapsed:: true
+	- ### 主要标签 / 按高度分类的腿部服饰
+	- Socks, (短袜)
+	- Kneehighs, (及膝袜) 覆盖脚和腿部直到膝盖
+	- Over-kneehighs, (过膝袜) 覆盖腿部从脚到膝盖以上
+	- Thighhighs, (大腿袜) 覆盖腿部从脚到大腿中部
+	- Pantyhose, (连裤袜) 覆盖从腰部到脚尖
+	- ### 腿部服饰的外观和颜色
+	- 特定颜色的腿部服饰
+		- Aqua_legwear, (水绿色腿部服饰)
+		- Black_legwear, (黑色腿部服饰)
+		- Blue_legwear, (蓝色腿部服饰)
+		- Brown_legwear, (棕色腿部服饰)
+		- Green_legwear, (绿色腿部服饰)
+		- Grey_legwear, (灰色腿部服饰)
+		- Orange_legwear, (橙色腿部服饰)
+		- Pink_legwear, (粉色腿部服饰)
+		- Purple_legwear, (紫色腿部服饰)
+		- Red_legwear, (红色腿部服饰)
+		- White_legwear, (白色腿部服饰)
+		- Yellow_legwear, (黄色腿部服饰)
+	- 多种颜色的腿部服饰
+		- Gradient_legwear, (渐变色腿部服饰)
+		- Multicolored_legwear, (多色腿部服饰)
+	- ### 腿部服饰的图案和印花
+	- Argyle_legwear, (阿盖尔图案腿部服饰)
+	- Checkered_legwear, (格子图案腿部服饰)
+	- Plaid_legwear, (格子呢腿部服饰)
+	- Polka_dot_legwear, (波点图案腿部服饰)
+	- Print_legwear, (印花腿部服饰)
+	- Striped_legwear, (条纹腿部服饰)
+		- Vertical-striped_legwear, (竖条纹腿部服饰)
+	- ### 其他
+	- Asymmetrical_legwear, (不对称腿部服饰)
+	- Back_seamed_legwear, (后缝腿部服饰)
+	- Bow_legwear, (蝴蝶结腿部服饰)
+	- Frilled_legwear, (荷叶边腿部服饰)
+	- Lace_legwear, (蕾丝腿部服饰)
+	- Lace-up_legwear, (系带腿部服饰)
+	- Latex_legwear, (乳胶腿部服饰)
+	- Mismatched_legwear, (不匹配的腿部服饰)
+	- No_legwear, (无腿部服饰)
+	- Sheer_legwear, (透明腿部服饰)
+	- Thighband_pantyhose, (大腿环连裤袜)
+	- Toeless_legwear, (无趾腿部服饰)
+	- Torn_pantyhose, (破洞连裤袜)
+	- Torn_thighhighs, (破洞大腿袜)
+- 体位
+  collapsed:: true
+	- 69
+	- doggystyle, (后入式)
+	- air_doggystyle, (空中后入式)
+	- prone_bone, (俯卧性交)
+	- spitroast, (夹击性交)
+	- girl_on_top, (女上位)
+	- cowgirl_position, (牛仔女郎式)
+	- squatting_cowgirl_position, (蹲式牛仔女郎式)
+	- reverse_cowgirl_position, (反向牛仔女郎式)
+	- upright_straddle, (直立跨坐式)
+	- spooning, (侧卧式)
+	- suspended_congress, (悬挂性交)
+	- reverse_suspended_congress, (反向悬挂性交)
+	- full_nelson, (全身悬挂式)
+	- male on top, (男上位)
+	- missionary, (传教士式)
+	- mating_press, (交配压迫式)
+	- standing_sex, (站立性交)
+	- standing_missionary, (站立传教士式)
+	- piledriver, (直捣式)
+	- ### 束缚特定的体位
+	- box_tie, (箱式束缚)
+	- bound_arms, (束缚手臂)
+	- bound_feet, (束缚双脚)
+	- bound_legs, (束缚腿部)
+	- bound_calves, (束缚小腿)
+	- bound_knees, (束缚膝盖)
+	- bound_thighs, (束缚大腿)
+	- bound_torso, (束缚躯干)
+	- bound_wrists, (束缚手腕)
+	- frogtie, (蛙式束缚)
+	- hogtie, (猪式束缚)
+	- separated_arms, (分开的手臂)
+	- separated_legs, (分开的腿部)
+	- separated_wrists, (分开的手腕)
+	- strappado, (悬挂束缚)
+	- suspension, (悬吊)
+- sex动作
+  collapsed:: true
+	- ### 性行为前的标签
+	- presenting（展示）
+	- ### 刺激性行为
+	- collapsed:: true
+	  
+	  feet（脚部）
+		- footjob（足交）
+		- autofootjob（自我足交）
+		- double_footjob（双重足交）
+		- implied_footjob（暗示足交）
+		- multiple_footjob（多重足交）
+		- shoejob（鞋交）
+		- foot_licking（舔脚）
+		- foot_worship（脚部崇拜）
+		- smelling_feet（闻脚）
+	- collapsed:: true
+	  
+	  frottage （干磨）
+		- armpit_sex（腋窝性交）
+		- grinding（磨蹭）
+		- double_grinding（双重磨蹭）
+		- backjob（后入磨蹭）
+		- buttjob（臀部磨蹭）
+		- double_buttjob（双重臀部磨蹭）
+		- kneepit_sex（膝窝性交）
+		- paizuri（乳磨）
+		- autopaizuri（自我乳磨）
+		- multiple_paizuri（多重乳磨）
+		- naizuri（平胸乳磨）
+		- paizuri_over_clothes（衣物上乳磨）
+		- paizuri_under_clothes（衣物下乳磨）
+		- thigh_sex（大腿性交）
+	- collapsed:: true
+	  
+	  groping（摸索）
+		- ass_grab（抓臀）
+		- breast_grab（抓胸）
+		- guided_breast_grab（引导抓胸）
+		- nipple_tweak（扭乳头）
+		- self_fondle（自我抚摸）
+		- torso_grab（抓躯干）
+	- hairjob（发交）
+	- collapsed:: true
+	  
+	  handjob（手交）
+		- caressing_testicles（抚摸睾丸）
+		- double_handjob（双手手交）
+		- multiple_handjob（多重手交）
+		- nursing_handjob（护理手交）
+		- reach-around（环绕手交）
+		- two-handed_handjob（双手手交）
+	- collapsed:: true
+	  
+	  masturbation（自慰）
+		- clothed_masturbation（穿着衣服自慰）
+		- crotch_rub（胯部摩擦）
+		- building_sex（建筑性行为）
+		- pillow_sex（枕头性行为）
+		- teddy_bear_sex（泰迪熊性行为）
+		- table_sex（桌子性行为）
+		- implied_masturbation（暗示自慰）
+		- male_masturbation（男性自慰）
+		- mutual_masturbation（相互自慰）
+		- stealth_masturbation（秘密自慰）
+		- tail_masturbation（尾巴自慰）
+	- collapsed:: true
+	  
+	  tail（尾巴）
+		- tail_insertion（尾巴插入）
+		- tail_masturbation（尾巴自慰）
+		- tailjob（尾巴交）
+	- collapsed:: true
+	  
+	  oral（口交）
+		- anilingus（肛交）
+		- breast_sucking（吸乳）
+		- cunnilingus（舔阴）
+		- autocunnilingus（自我舔阴）
+		- implied_cunnilingus（暗示舔阴）
+		- fellatio（口交）
+		- autofellatio（自我口交）
+		- cum_swap（换精）
+		- deepthroat（深喉）
+		- implied_fellatio（暗示口交）
+		- irrumatio（口交）
+		- multiple_fellatio（多重口交）
+		- sitting_on_face（坐脸）
+		- sucking_testicles（吸睾丸）
+		- testicle_licking（舔睾丸）
+	- ### 群交
+	- group_sex（群交）
+	  collapsed:: true
+		- bisexual（双性恋）
+		- bisexual_(female)（女性双性恋）
+		- bisexual_(male)（男性双性恋）
+		- gangbang（群P）
+		- double_penetration（双重穿透）
+		- triple_penetration（三重穿透）
+		- love_train（爱之列车）
+		- multiple_fellatio（多重口交）
+		- multiple_footjob（多重足交）
+		- multiple_breast_smother（多重乳房窒息）
+		- orgy（狂欢）
+		- reverse_spitroast（反向夹击）
+		- spitroast（夹击）
+		- teamwork（团队合作）
+		- threesome（三人行）
+	- ### 穿透与插入
+	- collapsed:: true
+	  
+	  object_insertion（物体插入）
+		- vaginal_object_insertion（阴道物体插入）
+		- anal_object_insertion（肛门物体插入）
+		- large_insertion（大插入）
+		- stomach_bulge（腹部隆起）
+		- food_insertion（食物插入）
+		- animal_insertion（动物插入）
+		- multiple_insertions（多重插入）
+		- urethral_insertion（尿道插入）
+		- sounding（探针）
+	- collapsed:: true
+	  
+	  fingering（指交）
+		- anal_fingering（肛交）
+		- prostate_milking（前列腺挤出）
+		- fingering_through_clothes（衣物间指交）
+		- fingering_through_panties（内裤间指交）
+		- implied_fingering（暗示指交）
+		- fisting（拳交）
+		- anal_fisting（肛拳交）
+		- self_fisting（自我拳交）
+	- collapsed:: true
+	  
+	  sex（性交）
+		- after_sex（性交后）
+		- after_anal（肛交后）
+		- after_buttjob（臀部交后）
+		- after_fellatio（口交后）
+		- after_fingering（指交后）
+		- after_frottage（干磨后）
+		- after_insertion（插入后）
+		- after_masturbation（自慰后）
+		- after_oral（口交后）
+		- after_paizuri（乳磨后）
+		- after_rape（强奸后）
+		- broken_rape_victim（破碎的强奸受害者）
+		- after_urethral（尿道后）
+		- after_vaginal（阴道后）
+		- afterglow（余韵）
+		- clothed_after_sex（穿着衣服性交后）
+		- anal（肛交）
+		- autoanal（自我肛交）
+		- double_anal（双重肛交）
+		- imminent_anal（即将肛交）
+		- pegging（女上位肛交）
+		- triple_anal（三重肛交）
+		- clothed_sex（穿着衣服性交）
+		- guided_penetration（引导穿透）
+		- happy_sex（快乐性交）
+		- imminent_sex（即将性交）
+		- implied_sex（暗示性交）
+		- mating_press（交配压迫）
+		- navel_sex（肚脐性交）
+		- tentacle_sex（触手性交）
+		- underwater_sex（水下性交）
+		- vaginal（阴道性交）
+		- after_vaginal（阴道后）
+		- autovaginal（自我阴道交）
+		- double_vaginal（双重阴道交）
+		- imminent_vaginal（即将阴道交）
+		- triple_vaginal（三重阴道交）
+	- ### 同性行为
+	- yaoi（男男）
+	  collapsed:: true
+		- bara（男性男男）
+	- yuri（女女）
+	  collapsed:: true
+		- implied_yuri（暗示女女）
+		- tribadism（磨腿）
+	- ### 特殊喜好
+	- Ageplay（年龄扮演）
+		- diaper（尿布）
+		- adult_baby（成人婴儿）
+		- loli / shota（萝莉/正太）
+		- toddlercon - （不允许在Gelbooru上）
+		- mature（成熟）
+	- collapsed:: true
+	  
+	  Body Types（体型）
+		- giant / giantess（巨人/女巨人）
+		- miniboy / minigirl（小男孩/小女孩）
+		- muscle（肌肉）
+		- muscular_female（肌肉女性）
+		- plump / curvy（丰满/曲线）
+		- fat（肥胖）
+		- skinny（瘦弱）
+	- collapsed:: true
+	  
+	  Breasts（乳房）
+		- breasts（乳房）
+		- breast_expansion（乳房扩张）
+		- gigantic_breasts（巨大乳房）
+		- breast_smother（乳房窒息）
+		- multiple_breast_smother（多重乳房窒息）
+		- lactation（哺乳）
+		- breast_feeding（母乳喂养）
+	- collapsed:: true
+	  
+	  Bondage and Discipline（束缚与纪律）
+		- bdsm（束缚与纪律）
+		- asphyxiation（窒息）
+		- choking（掐颈）
+		- bondage（束缚）
+		- breast_bondage（乳房束缚）
+		- predicament_bondage（困境束缚）
+		- shibari（绳缚）
+		- spreader_bar（张开棒）
+		- suspension（悬挂）
+		- femdom（女性支配）
+		- assertive（积极）
+		- clothed_female_nude_male（女性穿衣男性裸体）
+		- sitting_on_face（坐脸）
+		- humiliation（羞辱）
+		- body_writing（身体书写）
+		- public_use（公共使用）
+		- tally（计数）
+		- rope_walking（绳索行走）
+		- slave（奴隶）
+		- spanked（被打屁股）
+		- torture（折磨）
+		- clitoris_torture（阴蒂折磨）
+		- nipple_torture（乳头折磨）
+		- nipple_pull（拉乳头）
+		- tamakeri（魂器）
+		- tickle_torture（挠痒折磨）
+	- collapsed:: true
+	  
+	  Cum Play（精液游戏）
+		- cum（精液）
+		- bukkake（颜射）
+		- cumdump（精液倾倒）
+		- cumdrip（精液滴落）
+		- cum_pool（精液池）
+		- cum_in_ass（精液在肛门）
+		- cum_in_mouth（精液在口中）
+		  collapsed:: true
+			- cum_on_tongue（精液在舌头上）
+		- cum_in_pussy（精液在阴道）
+		- cum_on_body（精液在身体上）
+		  collapsed:: true
+			- cum_on_hair（精液在头发上）
+			- cum_on_lower_body（精液在下半身）
+			  collapsed:: true
+				- cum_on_ass（精液在臀部）
+				- cum_on_pussy（精液在阴部）
+			- cum_on_upper_body（精液在上半身）
+			  collapsed:: true
+				- cum_on_breasts（精液在胸部）
+		- cum_on_clothes（精液在衣物上）
+		- cum_on_food（精液在食物上）
+		- ejaculation（射精）
+		  collapsed:: true
+			- cum_while_penetrated（被穿透时射精）
+		- facial（颜射）
+		  collapsed:: true
+			- autofacial（自我颜射）
+		- gokkun（口含精液）
+		  
+		  **暴露、公开、偷窥和窥淫**
+		- exhibitionism（暴露）
+		  collapsed:: true
+			- clothed_sex（穿着衣服的性行为）
+			- public（公开）
+			  collapsed:: true
+				- public_nudity（公共裸露）
+				  collapsed:: true
+					- nudist（裸体主义者）
+					- zenra（全体裸体）
+				- public_vibrator（公共振动器）
+		- stealth_masturbation（秘密自慰）
+		- stealth_sex（秘密性行为）
+		- cheating（出轨）
+		  collapsed:: true
+			- cuckolding（戴绿帽）
+			- netorare（被他人所占）
+		- prostitution（卖淫）
+		- voyeurism（窥淫）
+		  collapsed:: true
+			- caught（被抓住）
+			- peeping（偷窥）
+			- walk-in（走进）
+			  
+			  **面部表情**
+		- :>= （口交脸）
+		- fucked_silly（被干傻了）
+		  collapsed:: true
+			- ahegao（啊嘿颜）
+			- torogao（トロ顔）
+		- naughty_face（调皮的脸）
+		  
+		  **性别扮演和雌雄同体**
+		- crossdressing（异装）
+		  collapsed:: true
+			- trap（即“男の娘”）
+			- reverse_trap（逆特拉普）
+		- futanari（双性）
+		  collapsed:: true
+			- implied_futanari（暗示双性）
+			- full-package_futanari（全套双性）
+			- futa_with_female（双性与女性）
+			- futa_with_futa（双性与双性）
+			- futa_with_male（双性与男性）
+			- male_futanari（男性双性）
+			- no_testicles（无睾丸）
+			  
+			  **乱伦**
+		- incest（乱伦）
+		  collapsed:: true
+			- twincest（兄妹乱伦）
+			  
+			  **强奸**
+		- rape（强奸）
+		  collapsed:: true
+			- femdom rape（女性对男性的强奸，也称为“逆强奸”）
+			- imminent_rape（即将强奸）
+			- molestation（骚扰）
+			  collapsed:: true
+				- chikan（痴汉）
+				- compensated_molestation（有偿骚扰）
+				- sexual_objectification（性物化）
+				  
+				  **窒息**
+		- smother（窒息）
+		  collapsed:: true
+			- asphyxiation（窒息）
+			- breast_smother（乳房窒息）
+			- sitting_on_face（坐脸）
+			  
+			  **视角**
+		- cross-section（截面）
+		  collapsed:: true
+			- internal_cumshot（内部射精）
+			- x-ray（X光）
+			  
+			  **杂项特殊喜好**
+		- anatomy（解剖学）
+		  collapsed:: true
+			- conjoined（连体）
+			- extra_arms（额外的手臂）
+			- extra_breasts（额外的乳房）
+			- extra_penises（额外的阴茎）
+		- bestiality（兽交）
+		  collapsed:: true
+			- Knotting（打结）
+		- condom（避孕套）
+		  collapsed:: true
+			- condom_filling（填满避孕套）
+			- used_condom（使用过的避孕套）
+		- Eating and Drinking from Body（从身体吃喝）
+		  collapsed:: true
+			- nantaimori（南蛮料理）
+			- nyotaimori（女体盛）
+			- wakamezake（裙带菜酒）
+			  collapsed:: true
+				- bust_cup（胸部杯）
+		- female_ejaculation（女性射精）
+		  collapsed:: true
+			- Pussy_juice（阴液）
+		- Mecha_on_girl（机甲女孩）
+		- pregnant（怀孕）
+		  collapsed:: true
+			- birth（出生）
+			- impregnation（受精）
+			- unbirthing（未出生）
+		- selfcest（自交）
+		- smelling（闻）
+		  collapsed:: true
+			- smelling_feet（闻脚）
+			- clothes_sniffing（闻衣服）
+			  collapsed:: true
+				- underwear_sniffing（闻内衣）
+				- pantyhose_sniffing（闻裤袜）
+		- tentacles（触手）
+		  collapsed:: true
+			- Actions（动作）
+			  collapsed:: true
+				- consensual_tentacles（同意的触手）
+				- tentacle_gagged（触手塞口）
+				- tentacle_job（触手工作）
+				- tentacle_sex（触手性行为）
+				- tentacles_in_thighhighs（大腿袜中的触手）
+				- tentacles_under_clothes（衣物下的触手）
+				- tentacles_with_male（与男性的触手）
+				- too_many_tentacles（触手过多）
+			- Attire（服装）
+			  collapsed:: true
+				- tentacle_armor（触手装甲）
+				- tentacle_clothes（触手服装）
+				- tentacle_hair（触手头发）
+				- tentacle_piercing（触手穿刺）
+				- tentacle_underwear（触手内衣）
+			- Types（类型）
+			  collapsed:: true
+				- artificial_tentacles（人造触手）
+				- ice_tentacles（冰触手）
+				- invisible_tentacle（隐形触手）
+				- mechanical_tentacles（机械触手）
+				- penis_tentacles（阴茎触手）
+				- tentacle_over_eye（眼睛上的触手）
+				- tentacle_pit（触手坑）
+				- tentacle_tongue（触手舌头）
+				- vine_tentacle（藤蔓触手）
+		- virgin（处女）
+		- vore（食人）
+		  
+		  **极端特殊喜好**
+		- collapsed:: true
+		  
+		  Scat and Urination（粪便与排尿）
+			- scat - （不允许在Gelbooru上）
+			- enema（灌肠）
+			- peeing（排尿）
+			  collapsed:: true
+				- golden_shower（黄金浴）
+				- have_to_pee（需要排尿）
+				- peeing_self（自我排尿）
+- 胸罩
+  collapsed:: true
+	- aqua_bra, (水绿色胸罩)
+	- black_bra, (黑色胸罩)
+	- blue_bra, (蓝色胸罩)
+	- brown_bra, (棕色胸罩)
+	- green_bra, (绿色胸罩)
+	- grey_bra, (灰色胸罩)
+	- orange_bra, (橙色胸罩)
+	- pink_bra, (粉色胸罩)
+	- purple_bra, (紫色胸罩)
+	- red_bra, (红色胸罩)
+	- white_bra, (白色胸罩)
+	- yellow_bra, (黄色胸罩)
+	  
+	  多色胸罩：
+	- multicolored_bra, (多色胸罩)
+	  
+	  胸罩的图案和印花：
+	- checkered_bra, (格子胸罩)
+	- lace_bra, (蕾丝胸罩)
+	- lace-trimmed_bra, (蕾丝边胸罩)
+	- plaid_bra, (格子呢胸罩)
+	- polka_dot_bra, (波点胸罩)
+	- print_bra, (印花胸罩)
+	- strawberry_bra, (草莓胸罩)
+	- striped_bra, (条纹胸罩)
+	- vertical-striped_bra, (竖条纹胸罩)
+	  
+	  胸罩的款式：
+	- adhesive_bra, (粘贴式胸罩)
+	- belt_bra, (腰带式胸罩)
+	- bow_bra, (蝴蝶结胸罩)
+	- bridgeless_bra, (无桥式胸罩)
+	- cupless_bra, (无杯胸罩)
+	- frilled_bra, (荷叶边胸罩)
+	- front-tie_bra, (前系带胸罩)
+	- front-hook_bra, (前扣胸罩)
+	- shelf_bra, (架式胸罩)
+	- sports_bra, (运动胸罩)
+	- strapless_bra, (无肩带胸罩)
+	- training_bra, (训练胸罩)
+	  
+	  其他：
+	- adjusting_bra, (调整胸罩)
+	- bra_lift, (胸罩提升)
+	- bra_on_ass, (胸罩在臀部)
+	- bra_on_head, (胸罩在头上)
+	- bra_pull, (拉胸罩)
+	- bra_strap, (胸罩带)
+	- holding_bra, (握着胸罩)
+	- no_bra, (不穿胸罩)
+	- open_bra, (敞开胸罩)
+	- torn_bra, (破胸罩)
+	- unworn_bra, (未穿胸罩)
+- 审查
+  collapsed:: true
+	- ### 主要审查类型
+	- Censored, (审查)
+	- Uncensored, (未审查)
+	- Decensored, (去审查)
+	- ### 视觉审查形式
+	- Bar_censor, (条形审查)
+	- Blank_censor, (空白审查)
+	- Convenient_censoring, (方便审查)
+	- Bubble_filter, (泡泡滤镜)
+	- Censor_hair, (头发审查)
+	- Censor_tail, (尾巴审查)
+	- Censor_wings, (翅膀审查)
+	- Convenient_bath_steam, (浴室蒸汽审查)
+	- Convenient_leg, (腿部审查)
+	- Hair_over_breasts, (头发覆盖胸部)
+	- Fake_scrollbar, (假滚动条)
+	- Intimate covering / Nude_cover, (私密覆盖/裸体覆盖)
+	- Clothes_in_front, (前方衣物)
+	- Covering_ass, (覆盖臀部)
+	- Covering_breasts, (覆盖胸部)
+	- Covering_crotch, (覆盖胯部)
+	- Light_censor, (光线审查)
+	- Mosaic_censoring, (马赛克审查)
+	- Non-intimate covering, (非私密覆盖)
+	- Covering_face, (覆盖脸部)
+	- Covering_eyes, (覆盖眼睛)
+	- Covering_ears, (覆盖耳朵)
+	- Covering_mouth, (覆盖嘴巴)
+	- Novelty_censor, (新奇审查)
+	- Can't_show_this, (无法显示)
+	- Character_censor, (角色审查)
+	- Heart_censor, (心形审查)
+	- Laughing_man, (笑面人)
+	- Treasure_mark_censor, (宝藏标记审查)
+	- Out-of-frame_censoring, (画面外审查)
+	- ### 被审查的身体部位
+	- Nipple_censor, (乳头审查)
+	- ### 假的或无意义的审查
+	- Fake_censor, (假审查)
+	- Quiet_censor, (安静审查)
+	- Censored_food, (食物审查)
+	- Censored_violence, (暴力审查)
+	- Character_censor, (角色审查)
+	- Identity_censor, (身份审查)
+	- Pointless_censoring, (无意义审查)
+- 表情/脸部
+  collapsed:: true
+	- ### 表情
+	- Emotions（情绪）
+		- Ahegao（啊嘿颜）
+			- Bohegao（波嘿颜）
+			- Torogao（トロ颜）
+		- Angry（生气）
+			- Anger_vein（愤怒的血管）
+			- Annoyed（烦恼）
+			- Clenched_teeth（咬紧牙关）
+		- Blush（脸红）
+			- Blush_stickers（脸红贴纸）
+			- Embarrassed（尴尬）
+		- Bored（无聊）
+		- Closed_eyes（闭眼）
+		- Confused（困惑）
+		- Crazy（疯狂）
+		- Drunk（醉酒）
+		- Expressionless（无表情）
+		- Evil（邪恶）
+		- Facepalm（捂脸）
+		- Glaring（怒视）
+		- Happy（快乐）
+		- Laughing（大笑）
+		- Naughty_face（调皮的脸）
+		- Nosebleed（流鼻血）
+		- Open_mouth（张嘴）
+			- Parted_lips（嘴唇微张）
+		- Pout（撅嘴）
+		- Raised_eyebrow（挑眉）
+		- Rape_face（强奸脸）
+		- Rolling_eyes（翻白眼）
+		- Sad（悲伤）
+			- Frown（皱眉）
+			- Gloom_(expression)（忧郁的表情）
+			- Tears（流泪）
+		- Scared（害怕）
+			- Horror（恐怖）
+			- Scream（尖叫）
+			- Surprised（惊讶）
+		- Serious（严肃）
+		- Sigh（叹息）
+		- Sleepy（困倦）
+		- Smirk（冷笑）
+		- Smug（自满）
+		- Sulking（生气）
+		- Thinking（思考）
+		- Torogao（トロ颜）
+		- Troll_face（巨魔脸）
+		- Wink（眨眼）
+	- ### 微笑表情标签
+	- Smile（微笑）
+		- Crazy_smile（疯狂微笑）
+		- Evil_smile（邪恶微笑）
+		- Fingersmile（手指微笑）
+		- Forced_smile（勉强微笑）
+		- Glasgow_smile（格拉斯哥微笑）
+		- Grin（露齿笑）
+			- Evil_grin（邪恶的露齿笑）
+		- Light_smile（轻微微笑）
+		- Sad_smile（悲伤微笑）
+		- Seductive_smile（诱人微笑）
+	- ### 表情符号
+	- :d [ :D ]（张嘴大笑）
+		- ;d [ ;D ]（眨眼大笑）
+		- xd [ XD ]（大笑）
+		- > 
+		  
+		  :d [ >:D ]（挑衅大笑）
+		- d: [ D: ]（惊讶张嘴）
+		- :}（微笑）
+		- :3（猫脸）
+			- ;3
+			- x3
+			- > 
+			  
+			  :3（调皮猫脸）
+			- 3:（皱眉猫脸）
+		- :p（吐舌微笑）
+			- ;p（眨眼吐舌）
+		- :q（也包括 :9）（舔唇）
+			- ;q
+		- > 
+		  
+		  :)（皱眉微笑）
+		- > 
+		  
+		  :(
+		- :t（闭嘴鼓腮）
+			- :i [ :I ]
+		- :/
+		- :|
+			- > 
+			  
+			  :|
+		- :x
+		- :c
+		- c:
+		- :<
+			- ;<
+			- > 
+			  
+			  :<
+			- :<>
+		- :>
+			- :>=
+			- ;>=
+		- :o（圆形嘴）
+			- ;o（闭眼张嘴）
+			- > 
+			  
+			  :o
+		- o3o
+		- (-3-)
+		- o_o
+		- 0_0
+		- |_|（竖线眼睛）
+			- ||_||（粗竖线眼睛）
+		- ._.（点状眼睛）
+		- •_•（参见：solid_circle_eyes）
+		- ♥_♥（参见：heart_eyes）
+		- ^_^
+			- ^o^
+			- (^o^)/（人生结束！）
+				- └(^o^)┐≡
+		- ^q^（也包括 ^p^）
+		- > 
+		  
+		  _<（紧闭双眼）
+		- ;;
+		- @_@（漩涡眼）
+		- +_+
+		- =_=（眯眼）
+		- <o><o>
+		- //\
+	- ### 绘画风格
+	- Sideways_mouth（侧脸）
+	- No_nose（无鼻子）
+	- No_mouth（无嘴巴）
+	- ### 其他
+	- Henohenomoheji（へのへのもへじ）
+	- Nonowa（ののワ）
+	- Portrait（肖像）
+	- Profile（侧脸）
+	- Smiley_face（笑脸）
+	- Uso_da（骗人的）
+	- ### 注视...
+	- Food_awe（对食物的敬畏）
+	- Breast_awe（对胸部的敬畏）
+	- Penis_awe（对阴茎的敬畏）
+- 屁股
+  collapsed:: true
+	- ### 1 - 臀部解剖学
+	- ass（臀部）
+		- ass_expansion（臀部扩张）
+		- bad_ass（酷臀）
+		- flat_ass（扁平臀部）
+		- huge_ass（巨大臀部）
+		- ass_focus（聚焦臀部）
+		- spread_ass（展开臀部）
+	- butt_crack（臀缝）
+	- wedgie（塞进）
+		- self_wedgie（自我塞进）
+	- ### 1.1 - 肛门解剖学
+	- anal_hair（肛毛）
+	- anus（肛门）
+		- no_anus（无肛门）
+		- spread_anus（展开肛门）
+		- tiny_anus（小肛门）
+		- huge_anus（巨大肛门）
+	- ### 2 - 臀部与手
+	- anal_fingering（肛指）
+	- anal_fisting（肛拳）
+	- ass_grab（抓臀）
+	- covering_anus（覆盖肛门）
+	- covering_ass（覆盖臀部）
+	- groping（摸索）
+	- hand_on_ass（手放在臀部）
+	- ### 3 - 臀部与头部
+	- ass_biting（咬臀）
+	- ass_sniff（嗅臀）
+	- head_on_butt（头靠臀部）
+	- ### 4 - 臀部与精液
+	- cum_in_ass（精液在肛门）
+	- cum_on_ass（精液在臀部）
+	- ### 5 - 其他
+	- anal（肛交）
+	- anal_hook（肛钩）
+	- ass_to_ass（臀对臀）
+	- ass_cutout（臀部剪裁）
+		- heart_ass_cutout（心形臀部剪裁）
+	- ass_on_glass（臀部贴玻璃）
+	- ass_ache（臀痛）
+	- ass_shake（臀部摇晃）
+- 身体部位总结
+  collapsed:: true
+	- ### ✱ 头部
+	- **Hair (Tag_group:Hair) Tag_group:Hair_color Tag_group:Hair_styles**
+		- hair（头发）
+	- ### -● 面部
+	- face（面部）
+		- forehead（额头）
+		- eyebrows（眉毛）
+	- ### --● 眼睛 (Tag_group:Eyes_tags)
+	- eyes（眼睛）
+		- eyelashes（睫毛）
+		- sclera（眼白）
+		- iris（虹膜）
+			- pupils（瞳孔）
+		- ◙Body fluids（体液）
+			- tears（眼泪）
+	- cheeks（脸颊）
+	- ### ● 耳朵 (Tag_group:Ears_tags)
+	- ears（耳朵）
+		- earlobes（耳垂）
+		- ◙Body fluids（体液）
+			- earwax（耳垢）
+	- ### --● 鼻子
+	- nose（鼻子）
+		- ◙Body fluids（体液）
+			- snot（鼻涕）
+	- ### --● 面部毛发
+	- moustache（小胡子）
+		- beard（胡须）
+		- sideburns（连鬓胡子）
+		- sidelocks（鬓角）
+	- ### --● 嘴巴
+	- mouth（嘴巴）
+		- lips（嘴唇）
+			- gingiva / gums（牙龈）
+			- teeth（牙齿）
+				- fangs（尖牙）
+			- tongue（舌头）
+			- uvula（悬雍垂）
+		- ◙Body fluids（体液）
+			- saliva（唾液）
+	- ### ● 颈部 (Tag_group:Neck_and_neckwear)
+	- neck（颈部）
+		- nape（颈背）
+	- ### ■ 内部器官
+	- Brain（大脑）
+- 脖子项链
+  collapsed:: true
+	- Collarbone~（锁骨）
+	- Nape（颈背）
+	- Neck（颈部）
+		- Long_neck（长颈）
+	- ### 触摸颈部的动作
+	- Arm_around_neck / Arms_around_neck（手臂环绕颈部）
+	- Hand_on_another's_neck（手放在别人的颈部）
+	- Hand_on_own_neck（手放在自己的颈部）
+	- Neck_biting（咬颈部）
+	- Necking（颈部亲昵）
+	- Neck_kiss（颈部吻）
+	- ### 颈部服饰/配饰/物品
+	- Ascot（阿斯科特领带）
+	- Bolo_tie（波洛领带）
+	- Bowtie（领结）
+		- ~Choker~（项圈）
+		- Bell_choker（铃铛项圈）
+		- Ribbon_choker（丝带项圈）
+	- ~Collar~（衣领）- 作为衣物的一部分，见下文
+		- Bell_collar（铃铛领）
+		- Dog_collar（狗领）
+		- Spiked_collar（带刺领）
+		- Studded_collar（铆钉领）
+	- Cravat（领巾）
+	- Elizabethan_collar - 宠物佩戴的圆锥形项圈，防止舔自己
+	- Feather_boa（羽毛蟒蛇纹）
+	- Goggles_around_neck（护目镜绕颈）
+	- Headphones_around_neck（耳机绕颈）
+	- Lanyard（挂绳）
+	- Neckerchief（领巾）
+		- ~Necklace~（项链）
+			- Chain_necklace（链条项链）
+			- Flower_necklace（花项链）
+				- Lei（花环）
+			- Friendship_charm（友情魅力）
+			- Pearl_necklace（珍珠项链）
+			- Pendant（吊坠）
+				- Amulet（护身符）
+				- Locket（锁形吊坠）
+				- Magatama（勾玉）
+				- Pentacle（五角星形）
+	- Neck_ribbon（颈部丝带）
+	- Neck_ruff（颈部褶边）
+		- ~Necktie~（领带）
+			- Necktie_between_breasts（领带位于胸部之间）
+			- Necktie_on_head（领带戴在头上）
+			- Necktie_pull（领带拉扯）
+			- Necktie_removed（领带已脱）
+			- Striped_necktie（条纹领带）
+		- ~Scarf~（围巾）
+	- ### 衣物领子（衬衫、连衣裙等）
+	- Collar_grab（抓领子）
+	- Collar_tug（拉领子）
+		- Adjusting_collar（调整领子）
+		- Detached_collar（分离的领子）
+		- Fur_collar（毛领）
+		- High_collar（高领）
+		- Open_collar（开领）
+		- Popped_collar（立领）
+		- Sailor_collar（水手领）
+		- Turtleneck（高领）
+			- Sleeveless_turtleneck（无袖高领）
+		- V-neck（V领）
+		- Wing_collar（翼领）
+- sex_objects，色情所用物体
+  collapsed:: true
+	- ### 内衣 (Lingerie)
+	- lingerie, (内衣)
+		- babydoll, (娃娃装)
+		- bodystocking, (连体丝袜)
+		- bra, (胸罩)
+			- Tag_group:Bra, (胸罩标签组)
+		- bustier, (紧身胸衣)
+		- camisole, (吊带背心)
+		- chemise, (宽松睡衣)
+		- corset, (紧身胸衣)
+		- fishnets, (网袜)
+		- garter_straps, (吊袜带)
+		- garter_belt, (吊袜腰带)
+		- lace, (蕾丝)
+		- nightgown, (睡袍)
+		- panties, (内裤)
+			- boyshort_panties, (短裤式内裤)
+			- Tag_group:Panties, (内裤标签组)
+		- strapless_bottom, (无肩带下装)
+		- teddy, (泰迪)
+		- thighhighs, (大腿袜)
+		- thong, (丁字裤)
+			- g-string, (G弦内裤)
+			- pearl_thong, (珍珠丁字裤)
+		- Male_Underwear, (男性内衣)
+			- boxers, (拳击短裤)
+			- briefs, (平角内裤)
+				- boxer_briefs, (拳击短内裤)
+				- bikini_briefs, (比基尼内裤)
+			- jockstrap, (运动支撑三角裤)
+			- ball_bra, (睾丸托)
+			- penis_sheath, (阴茎鞘)
+	- ### BDSM服饰
+	- blindfold, (眼罩)
+	- bodysuit, (紧身衣)
+		- gimp_suit, (束缚服)
+	- bondage outfit, (束缚装)
+	- latex, (乳胶)
+		- latex_gloves, (乳胶手套)
+		- latex_suit, (乳胶服)
+	- ### 暴露服饰
+	- crotchless, (开裆)
+		- crotchless_panties, (开裆内裤)
+		- crotchless_pants, (开裆裤)
+		- crotchless_swimsuit, (开裆泳装)
+		- crotchless_pantyhose, (开裆连裤袜)
+		- crotchless_leotard, (开裆紧身衣)
+		- crotchless_bloomers, (开裆灯笼裤)
+		- crotchless_buruma, (开裆布雷马)
+	- ass_Cutout, (臀部剪裁)
+		- assless_swimsuit, (无臀泳衣)
+		- backless_panties, (露背内裤)
+		- backless_pants, (露背裤)
+	- breast_cutout|cleavage_cutout, (胸部剪裁|乳沟剪裁)
+		- breastless_clothes, (无胸衣物)
+		- nippleless_clothes, (无乳头衣物)
+		- cupless_bikini, (无杯比基尼)
+		- cupless_bra, (无杯胸罩)
+	- revealing_clothes, (暴露服饰)
+	- reverse_outfit, (反向装)
+		- reverse_bikini_armor, (反向比基尼盔甲)
+		- reverse_bunnysuit, (反向兔女郎装)
+	- ### 更多/杂项
+	- anal_ball_wear, (肛门球装)
+	- maebari, (裈)
+		- bandaid_on_pussy, (阴部创可贴)
+		- heart_maebari, (心形裈)
+		- taped_pussy, (贴胶带的阴部)
+	- pasties, (乳贴)
+		- bandaid_on_nipples, (乳头创可贴)
+		- heart_pasties, (心形乳贴)
+		- star_pasties, (星形乳贴)
+		- taped_nipples, (贴胶带的乳头)
+		- x_pasties|cross_pasties, (X形乳贴|十字乳贴)
+- 手
+  collapsed:: true
+	- collapsed:: true
+	  
+	  Hands above neck, (手在颈部以上)
+		- Adjusting_glasses, (调整眼镜)
+		- finger_in_mouth, (手指放入口中)
+		- finger_on_tongue, (手指放在舌头上)
+		- Hand_in_hair / Hands_in_hair, (手放在头发中)
+			- Hand_in_another's_hair, (手放在别人的头发中)
+		- Hand_on_ear, (手放在耳朵上)
+		- Hand_on_Face, (手放在脸上)
+			- hand_on_another's_face / hands_on_another's_face, (手放在别人的脸上)
+			- hand_on_own_face / hands_on_own_face, (手放在自己的脸上)
+			- Hand_on_Cheek, (手放在脸颊上)
+				- hand_on_another's_cheek, (手放在别人的脸颊上)
+				- hand_on_own_cheek, (手放在自己的脸颊上)
+		- Hand on Chin, (手放在下巴上)
+			- hand_on_another's_chin, (手放在别人的下巴上)
+			- hand_on_own_chin, (手放在自己的下巴上)
+			- chin_rest, (下巴依靠)
+		- Hand_on_Mouth, (手放在嘴上)
+		- Hand_on_Head, (手放在头上)
+			- hand_on_another's_head / hands_on_another's_head, (手放在别人的头上)
+			- hand_on_own_head / hands_on_own_head, (手放在自己的头上)
+		- Hand_on_Headwear, (手放在头饰上)
+			- Hand_on_hat, (手放在帽子上)
+	- Hands on upper body (except breasts), (手在上半身（不包括胸部）)
+		- Hand_around_neck, (手环绕颈部)
+		- Hand_on_Chest / Hands_on_Chest, (手放在胸部)
+			- hand_on_another's_chest / hands_on_another's_chest, (手放在别人的胸部)
+			- hand_on_own_chest / hands_on_own_chest, (手放在自己的胸部)
+		- Hand_on_hip / ~Hands_on_hips~, (手放在臀部)
+			- hand_on_another's_hip / hands_on_another's_hips, (手放在别人的臀部)
+			- hand_on_own_hip, (手放在自己的臀部)
+		- Hand_on_shoulder, (手放在肩膀上)
+			- hand_on_another's_shoulder / hands_on_another's_shoulders, (手放在别人的肩膀上)
+			- hand_on_own_shoulder / hands_on_own_shoulders, (手放在自己的肩膀上)
+		- Hands_on_Stomach, (手放在腹部)
+			- hands_on_own_stomach, (手放在自己的腹部)
+	- Hands on breasts, (手在胸部)
+		- Breast_hold (oneself only), (自己胸部的握持)
+		- Breast_grab, (胸部抓取)
+			- Flat_chest_grab, (平胸抓取)
+			- Guided_breast_grab, (引导胸部抓取)
+		- Breast_lift, (胸部提升)
+		- Breast_poke, (胸部戳)
+		- Breast_press, (胸部按压)
+		- Breast_squeeze, (胸部挤压)
+		- Breast_suppress, (胸部压制)
+		- Groping, (摸索)
+		- Hand_between_breasts, (手在乳房之间)
+		- Hand_in_bra, (手在胸罩内)
+		- Nipple_tweak, (乳头扭动)
+	- ### 手部动作
+	- Hand Actions, (手的动作)
+		- chin_rest, (下巴依靠)
+		- fingering, (用手指)
+		- fisting, (拳头)
+		- handjob, (手交)
+		- holding, (握持)
+			- holding_weapon, (握持武器)
+				- holding_gun, (握持枪支)
+		- skirt_tug, (拉裙子)
+	- Hand gestures, (手势)
+		- hands_in_air, (手在空中)
+			- hands_up, (手举起)
+	- 手势
+	  collapsed:: true
+		- ### 涉及两只手的手势（同一个人的两只手；或者两个人，每人使用一只手等）
+		- Bunny_pose, (兔耳手势)
+		- Carry_me, (抱我)
+		- Clenched_hands, (紧握双手)
+		- Double_V, (双重V字手势)
+		- Finger_frame, (手指框架)
+		- Fist_bump, (拳头碰撞)
+		- Hands_clasped, (双手合十)
+		- Heart_hands, (心形手势)
+			- Heart_hands_duo, (双人心形手势)
+		- High_five, (击掌)
+		- Horns_pose, (角手势)
+		- Palm-fist_greeting, (掌拳问候)
+		- Penetration_gesture, (穿透手势)
+		- Pinky_swear, (小指誓言)
+		- Tsuki_ni_kawatte_oshioki_yo, (月がきれい)
+		- ### 只涉及单只手的手势
+		- #### 一个手指张开
+		- Akanbe, (阿卡贝手势)
+		- Index_finger_raised, (食指举起)
+		- Middle_finger, (中指)
+		- Pinky_out, (小指伸出)
+		- Tiny_gesture, (微小手势)
+		- Pointing, (指向)
+			- Pointing_at_self, (指向自己)
+			- Pointing_at_viewer, (指向观看者)
+			- Pointing_down, (指向下)
+			- Pointing_forward, (指向前)
+			- Pointing_up, (指向上)
+			- Kamina_pose, (卡米那姿势)
+			- Saturday_Night_Fever, (周六夜狂热)
+		- Shushing, (嘘声)
+		- Thumbs_down, (拇指向下)
+		- Thumbs_up, (拇指向上)
+		- #### 两个手指张开
+		- Fellatio_gesture, (口交手势)
+		- Cunnilingus_gesture, (舔阴手势)
+		- \n/, (斜杠手势)
+		- Finger_gun, (手指枪)
+		- V, (V字手势)
+		- Inward_v, (内向V字)
+		- Two-finger_salute, (双指敬礼)
+		- Pinching_gesture, (捏指手势)
+		- #### 三个手指张开
+		- \m/, (摇滚手势)
+		- Middle_W, (W字手势)
+		- OK_sign, (OK手势)
+		- Money_gesture, (金钱手势)
+		- #### 整个手掌张开
+		- Claw_pose, (爪子姿势)
+		- Open_hand, (张开手掌)
+		- Facepalm, (捂脸)
+		- Open_\m/, (张开摇滚手势)
+		- Reaching, (伸手)
+		- Salute, (敬礼)
+		- Spread_fingers, (手指张开)
+		- Straight-arm_salute, (直臂敬礼)
+		- Vulcan_salute, (瓦肯敬礼)
+		- Waving, (挥手)
+		- #### 整个手握拳
+		- Clenched_hand, (紧握的手)
+		- Fig_sign, (无花果手势)
+		- Paw_pose, (爪子姿势)
+		- Power_fist, (力量拳)
+		- Raised_fist, (举起的拳头)
+		- ### 一只手可变数量的手指张开
+		- Beckon, (招手)
+		- Chin_stroking, (摸下巴)
+		- Come_hither, (来这里)
+		- Hat_tip, (帽子倾斜)
+		- V, (V字手势)
+		- V_over_eye, (V字遮眼)
+		- W, (W手势)
+		- ### 其他手势
+		- Bowing, (鞠躬)
+		- Curtsey, (行屈膝礼)
+		- Heart_tail, (心形尾迹)
+			- Heart_tail_duo, (双人心形尾迹)
+		- Toe-point, (脚尖指向)
+- 眼睛
+  collapsed:: true
+	- ### 虹膜颜色
+	- Aqua_eyes, (水绿色眼睛)
+	- Black_eyes, (黑色眼睛)，见下文黑色眼睛的损伤说明。
+	- Blue_eyes, (蓝色眼睛)
+	- Brown_eyes, (棕色眼睛)
+	- Amber_eyes, (琥珀色眼睛)
+	- Light_Brown_eyes, (浅棕色眼睛)
+	- Gold_eyes, (金色眼睛)
+	- Green_eyes, (绿色眼睛)
+	- Grey_eyes, (灰色眼睛)
+	- Hazel_eyes, (淡褐色眼睛)
+	- Orange_eyes, (橙色眼睛)
+	- Pink_eyes, (粉色眼睛)
+	- Purple_eyes, (紫色眼睛)
+	- Lavender_eyes, (薰衣草色眼睛)
+	- Red_eyes, (红色眼睛)
+	- Maroon_eyes, (栗色眼睛)
+	- Silver_eyes, (银色眼睛)
+	- White_eyes, (白色眼睛)
+	- Yellow_eyes, (黄色眼睛)
+	- ### 虹膜多色
+	- Hazel_eyes, (淡褐色眼睛)
+	- Heterochromia, (异色症)
+	- Multicolored_eyes, (多色眼睛)
+	- ### 虹膜形状
+	- Al_Bhed_eyes, (阿尔贝德眼睛，来自《最终幻想X》的螺旋形眼睛)
+	- Pac-man_eyes, (吃豆人眼睛，饼状眼睛)
+	- Ringed_eyes, (环状眼睛)
+	- ### 瞳孔形状
+	- Constricted_pupils, (收缩的瞳孔)
+	- Multiple_pupils, (多重瞳孔)
+	- Slit_pupils, (缝隙瞳孔)
+	- Symbol-shaped_pupils, (符号形状瞳孔)
+		- +_+, (十字瞳孔)
+		- Heart-shaped_pupils, (心形瞳孔)
+		- Star-shaped_pupils, (星形瞳孔)
+	- ### 巩膜
+	- Blue_sclera, (蓝色巩膜)
+	- Black_sclera, (黑色巩膜)
+	- Bloodshot_eyes, (充血眼睛)
+	- Green_sclera, (绿色巩膜)
+	- Grey_sclera, (灰色巩膜)
+	- Orange_sclera, (橙色巩膜)
+	- Pink_sclera, (粉色巩膜)
+	- Red_sclera, (红色巩膜)
+	- Yellow_sclera, (黄色巩膜)
+	- Mismatched_sclera, (不匹配的巩膜)
+	- ### 眼睛周围
+	- Bags_under_eyes, (眼袋)
+	- Black_eye, (黑眼圈，眼部瘀伤)
+	- Burning_eyes, (燃烧的眼睛)
+	- Glowing_eyes, (发光的眼睛)
+	- Mako_eyes, (魔光眼睛，来自《最终幻想VII》)
+	- ### 更多外观
+	- #### 动物或非人类眼睛
+	- Amphibian_eyes, (两栖动物眼睛)
+	- Button_eyes, (纽扣眼睛)
+	- Cephalopod_eyes, (头足类眼睛)
+	- Compound_eyes, (复眼)
+	- Frog_eyes, (青蛙眼睛)
+	- Goat_eyes, (山羊眼睛)
+	- #### 风格化眼睛，用于情感或喜剧
+	- Crazy_eyes, (疯狂眼睛)
+	- Empty_eyes, (空洞眼睛)
+	- Heart_eyes, (心形眼睛)
+	- Dashed_eyes, (虚线眼睛)
+	- Nonowa, (ののワ)
+	- Solid_circle_eyes, (实心圆眼睛)
+	- o_o, 0_0, |_|, (惊讶表情)
+	- Tareme, (下垂眼睛)
+	- Tsurime, (上挑眼睛)
+	- Sanpaku, (三白眼)
+	- ### 特定系列眼睛
+	- Geass, (来自《叛逆的鲁鲁修》)
+	- Sharingan, (来自《火影忍者》)
+	- Mangekyou_Sharingan, (来自《火影忍者》)
+	- ### 其他
+	- Eye_reflection, (眼睛反射)
+	- Text_in_eyes, (眼睛中的文本)
+	- ### 眼睛数量
+	- Extra_eyes, (额外的眼睛)
+	- Missing_eye, (缺失的眼睛)
+	- One-eyed, (独眼)
+		- Cyclops, (独眼巨人)
+	- Third_eye, (第三只眼)
+	- Multiple_eyes, (多重眼睛)
+	- No_eyes, (无眼睛)
+	- ### 情感和表情
+	- > 
+	  
+	  _<
+	- x3
+	- xd
+	- o_o
+	- 0_0
+	- 3_3
+	- @_@
+	- ^_^
+	- |_|
+	- ||_||
+	- =_=
+	- +*+ → click %2B*%2B
+	- ._.
+	- <o><o>
+	- ### 一只或两只眼睛闭合
+	- Blinking, (眨眼)
+	- Eyes_closed, (眼睛闭合)
+		- half-closed_eyes, (半闭眼)
+	- Wince, (痛苦表情)
+	- Wink, (眨眼)
+	- ### 眼睛配饰；眼睛覆盖
+	- Covering_eyes, (覆盖眼睛)
+	- Hair_over_eyes, (头发覆盖眼睛)
+		- Hair_over_one_eye, (头发覆盖一只眼睛)
+		- Bandage_over_one_eye, (单眼绷带)
+	- Blindfold, (眼罩)
+	- Hat_over_eyes, (帽子覆盖眼睛)
+	- Eyepatch, (眼罩)
+	- Eyes_visible_through_hair, (透过头发可见的眼睛)
+	- Glasses, (眼镜)
+	- ### 杂项/动作
+	- Akanbe, (阿卡贝)
+	- Blind, (失明)
+	- Drawn_on_eyes, (画上的眼睛)
+	- Eyeball, (眼球)
+	- Eye_beam, (眼睛光束)
+	- Eye_contact, (眼神接触)
+	- Eye_poke, (戳眼睛)
+	- Eye_pop, (眼睛突出)
+	- Looking_afar, (远望)
+	- Looking_at_another, (看向他人)
+	- Looking_at_viewer, (看向观众)
+	- Looking_away, (看向别处)
+	- Looking_down, (向下看)
+	- Looking_up, (向上看)
+	- Matching_hair/eyes, (匹配的头发/眼睛)
+	- Persona_eyes, (人格眼睛)
+	- Shading_eyes, (眼睛阴影)
+	- Squinting, (眯眼)
+	- Staring, (凝视)
+	- Uneven_eyes, (不均匀的眼睛)
+	- Wide-eyed, (睁大眼睛)
+	- Wince, (痛苦表情)
+- 服饰装饰大全。
+  collapsed:: true
+	- ### 帽子和头部装饰
+	- animal_hat, (动物造型帽子)
+		- cat_hat, (猫耳帽)
+	- bandana, (班达娜头巾)
+	- baseball_cap, (棒球帽)
+		- visor_cap, (遮阳帽)
+	- beanie, (贝雷帽)
+	- bicorne, (双角帽)
+	- bonnet, (女帽)
+	- bowler_hat, (圆顶硬礼帽)
+	- bucket_hat, (桶帽)
+	- bun_cover, (包子头套)
+	- cabbie_hat, (出租车司机帽)
+	- chef_hat, (厨师帽)
+		- toque_blanche, (白厨师帽)
+		- flat_top_chef_hat, (平顶厨师帽)
+	- cloche_hat, (钟形帽)
+	- cowboy_hat, (牛仔帽)
+	- crown, (皇冠)
+		- circlet, (圆环)
+		- boqtaq, (蒙古帽)
+		- ikseongwan, (韩国传统帽)
+		- jokduri, (韩国传统帽)
+		- native_american_headdress, (印第安头饰)
+		- tiara, (头饰)
+	- deerstalker, (猎鹿帽)
+	- deviruchi_hat, (恶魔帽)
+	- djasal, (俄罗斯帽)
+	- dutch_cap, (荷兰帽)
+	- earflap_hat, (耳罩帽)
+	- facinator, (小型帽)
+	- fake_animal_ears, (假动物耳)
+	- fedora, (软呢帽)
+	- flat_cap, (平顶帽)
+	- forehead_protector, (前额保护帽)
+	- fur_hat, (毛皮帽)
+	- gat, (西班牙宽边帽)
+	- habit, (修女头巾)
+	- hairband, (发带)
+		- animal_ear_hairband, (动物耳发带)
+			- cat_ear_hairband, (猫耳发带)
+	- hair_bow, (发蝴蝶结)
+		- large_bow, (大蝴蝶结)
+	- hair_ornament, (发饰)
+		- crescent_hair_ornament, (新月发饰)
+		- food_themed_hair_ornament, (食物主题发饰)
+	- hair_pin, (发夹)
+	- hair_ribbon, (发带)
+	- hair_tie, (发束)
+	- hat_ribbon, (帽带)
+	- head_mirror, (头上镜)
+	- head_wreath, (头花环)
+		- laurel_wreath, (月桂花环)
+	- headband, (头带)
+		- sweatband, (运动头带)
+		- hachimaki, (日本头带)
+		- mongkhon, (泰国头带)
+	- helmet, (头盔)
+		- batting_helmet, (击球头盔)
+		- football_helmet, (橄榄球头盔)
+		- hardhat, (安全帽)
+		- helm, (头盔)
+		- kabuto, (日本武士头盔)
+		- motorcycle_helmet, (摩托车头盔)
+		- pith_helmet, (遮阳盔)
+		- spiked_helmet, (带刺头盔)
+		- winged_helmet, (翼盔)
+	- hennin, (高顶帽)
+	- jeonmo, (韩国传统帽)
+	- jester_cap, (小丑帽)
+	- keffiyeh, (阿拉伯方格头巾)
+	- maid_cap, (女仆帽)
+	- maid_headdress, (女仆头饰)
+	- military_hat, (军帽)
+		- beret, (贝雷帽)
+		- dixie_cup_hat, (迪克西杯帽)
+		- garrison_cap, (哨所帽)
+		- papakha, (苏联军帽)
+		- peaked_cap, (尖顶帽)
+		- shako_cap, (军帽)
+	- mitre, (主教冠)
+	- mob_cap, (无边帽)
+	- nurse_cap, (护士帽)
+	- pillbox_hat, (药盒帽)
+	- pillow_hat, (枕头帽)
+	- pirate_hat, (海盗帽)
+	- porkpie_hat, (猪肉派帽)
+	- pumpkin_hat, (南瓜帽)
+	- rice_hat, (米帽)
+		- conical_hat, (圆锥帽)
+	- santa_hat, (圣诞帽)
+	- school_hat, (学校帽)
+	- shower_cap, (浴帽)
+	- sombrero, (墨西哥帽)
+	- stampede_string, (Stampede弦)
+	- straw_hat, (草帽)
+		- sun_hat, (遮阳帽)
+	- tate_eboshi, (立乌帽子)
+	- tokin_hat, (头巾帽)
+	- top_hat, (高顶帽)
+		- mini_top_hat, (迷你高顶帽)
+	- triangular_headpiece, (三角头饰)
+	- tricorne, (三角帽)
+	- ushanka, (俄罗斯帽)
+	- wig, (假发)
+		- gache, (法国假发)
+	- wimple, (头巾)
+	- witch_hat, (女巫帽)
+	- wizard_hat, (巫师帽)
+	- veil, (面纱)
+	- ### 衬衫和上衣
+	- backless, (露背)
+		- backless_outfit, (露背装)
+	- blouse, (女士衬衫)
+	- bustier, (紧身胸衣)
+	- camisole, (吊带背心)
+	- cape, (斗篷)
+		- arm_slit_cape, (臂缝斗篷)
+		- capelet, (短斗篷)
+		- hooded_cape, (带帽斗篷)
+	- cloak, (披风)
+		- hooded_cloak, (带帽披风)
+	- crop_top, (露脐装)
+	- corset, (紧身胸衣)
+	- halterneck, (挂脖)
+		- criss-cross_halter, (交叉挂脖)
+		- halter_top, (挂脖上衣)
+	- hoodie, (连帽衫)
+	- jacket, (夹克)
+		- black_jacket, (黑色夹克)
+		- blue_jacket, (蓝色夹克)
+		- green_jacket, (绿色夹克)
+		- orange_jacket, (橙色夹克)
+		- pink_jacket, (粉色夹克)
+		- plaid_jacket, (格子夹克)
+		- purple_jacket, (紫色夹克)
+		- red_jacket, (红色夹克)
+		- striped_jacket, (条纹夹克)
+		- white_jacket, (白色夹克)
+		- yellow_jacket, (黄色夹克)
+		- blazer, (西装外套)
+		- bolero, (短上衣)
+		- bomber_jacket, (轰炸机夹克)
+		- cape_jacket, (斗篷夹克)
+		- coat, (外套)
+			- black_coat, (黑色外套)
+			- white_coat, (白色外套)
+		- fur_coat, (毛皮外套)
+		- fur-trimmed_jacket, (毛边夹克)
+		- inverness_cape, (因弗内斯斗篷)
+		- parka, (派克大衣)
+		- peacoat, (海军呢大衣)
+		- raincoat, (雨衣)
+		- straitjacket, (紧身衣)
+		- tailcoat, (燕尾服)
+		- trench_coat, (风衣)
+	- jumper, (跳线)
+	- lace-trimmed_shirt, (蕾丝边衬衫)
+	- poncho, (斗篷)
+	- ruffled_shirt, (褶皱衬衫)
+	- shirt, (衬衫)
+		- black_shirt, (黑色衬衫)
+		- blue_shirt, (蓝色衬衫)
+		- checkered_shirt, (格子衬衫)
+		- green_shirt, (绿色衬衫)
+		- orange_shirt, (橙色衬衫)
+		- pinkshirt, (粉色衬衫)
+		- plaid_shirt, (格子衬衫)
+		- polka_dot_shirt, (波点衬衫)
+		- print_shirt, (印花衬衫)
+		- purple_shirt, (紫色衬衫)
+		- red_shirt, (红色衬衫)
+		- striped_shirt, (条纹衬衫)
+		- white_shirt, (白色衬衫)
+		- yellow_shirt, (黄色衬衫)
+		- collared_shirt, (领衬衫)
+			- peter_pan_collar, (彼得潘领)
+			- sailor_collar, (水手领)
+	- dress_shirt, (正装衬衫)
+	- Hawaiian_shirt, (夏威夷衬衫)
+	- sleeveless_shirt, (无袖衬衫)
+	- striped_shirt, (条纹衬衫)
+	- t-shirt, (T恤)
+	- sleeves, (袖子)
+		- bell_sleeve, (钟形袖)
+		- flutter_sleeves, (飘动袖)
+		- frilled_sleeves, (褶皱袖)
+		- long_sleeves, (长袖)
+			- thumb_hole, (拇指孔)
+		- puffy_sleeves, (蓬松袖)
+			- gigot_sleeves, (羊腿袖)
+			- juliet_sleeves, (朱丽叶袖)
+			- puff_and_slash_sleeves, (蓬松分割袖)
+				- puffy_detached_sleeves, (蓬松分离袖)
+				- puffy_long_sleeves, (蓬松长袖)
+				- puffy_short_sleeves, (蓬松短袖)
+				- raglan_sleeves, (拉格伦袖)
+				- short_sleeves, (短袖)
+				- sleeveless, (无袖)
+				- sleeves_past_wrists, (袖过手腕)
+				- wide_sleeves, (宽袖)
+				- surcoat, (外套)
+				- sweater, (毛衣)
+					- black_sweater, (黑色毛衣)
+					- blue_sweater, (蓝色毛衣)
+					- red_sweater, (红色毛衣)
+					- white_sweater, (白色毛衣)
+					- yellow_sweater, (黄色毛衣)
+					- aran_sweater, (阿兰毛衣)
+					- cardigan, (开衫)
+						- cardigan_shrug, (开衫缩肩)
+					- naked_sweater, (裸感毛衣)
+					- pullover, (套头衫)
+					- turtleneck_sweater, (高领毛衣)
+						- virgin_killer_sweater, (处男杀手毛衣)
+					- sweater_dress, (毛衣裙)
+					- ribbed_sweater, (罗纹毛衣)
+				- tabard, (围裙)
+				- tank_top, (背心)
+				- tubetop, (管顶)
+					- bandeau, (抹胸)
+				- tunic, (束腰外衣)
+				- turtleneck, (高领)
+					- sleeveless_turtleneck, (无袖高领)
+				- shawl, (披肩)
+				- vest, (背心)
+					- sweater_vest, (毛衣背心)
+					- waistcoat, (背心)
+				- ### 裤子和下装
+				- black_pants, (黑色裤子)
+				- blue_pants, (蓝色裤子)
+				- green_pants, (绿色裤子)
+				- orange_pants, (橙色裤子)
+				- pink_pants, (粉色裤子)
+				- plaid_pants, (格子裤子)
+				- purple_pants, (紫色裤子)
+				- red_pants, (红色裤子)
+				- striped_pants, (条纹裤子)
+				- white_pants, (白色裤子)
+				- yellow_pants, (黄色裤子)
+				- bellbottoms, (喇叭裤)
+				- bloomers, (宽松裤)
+				- buruma, (布雷马)
+				- capris, (七分裤)
+				- chaps, (护腿)
+				- detached_pants, (分离裤)
+				- jeans, (牛仔裤)
+					- cutoff_jeans, (剪短牛仔裤)
+					- torn_jeans, (破洞牛仔裤)
+				- kilt, (苏格兰裙)
+				- lederhosen, (背带裤)
+				- lowleg_pants, (低腰裤)
+				- petticoat, (衬裙)
+				- pumpkin_pants, (南瓜裤)
+				- sarong, (围裙)
+				- shorts, (短裤)
+					- blue_shorts, (蓝色短裤)
+					- green_shorts, (绿色短裤)
+					- orange_shorts, (橙色短裤)
+					- pink_shorts, (粉色短裤)
+					- plaid_shorts, (格子短裤)
+					- polka_dot_shorts, (波点短裤)
+					- print_shorts, (印花短裤)
+					- purple_shorts, (紫色短裤)
+					- red_shorts, (红色短裤)
+					- yellow_shorts, (黄色短裤)
+					- bike_shorts, (自行车短裤)
+					- denim_shorts, (牛仔短裤)
+					- gym_shorts, (运动短裤)
+					- hot_pants, (热裤)
+					- short_pants, (短裤)
+					- short_shorts, (超短裤)
+					- shorts_under_skirt, (裙下短裤)
+				- single_pantsleg, (单裤腿)
+				- skirt, (裙子)
+					- blue_skirt, (蓝色裙子)
+					- green_skirt, (绿色裙子)
+					- orange_skirt, (橙色裙子)
+					- pink_skirt, (粉色裙子)
+					- plaid_skirt, (格子裙子)
+					- polka_dot_skirt, (波点裙子)
+					- print_skirt, (印花裙子)
+					- purple_skirt, (紫色裙子)
+					- red_skirt, (红色裙子)
+					- yellow_skirt, (黄色裙子)
+					- bubble_skirt, (泡泡裙)
+					- high-waist_skirt, (高腰裙)
+					- kimono_skirt, (和服裙)
+					- long_skirt, (长裙)
+					- microskirt, (超短裙)
+					- miniskirt, (迷你裙)
+					- pencil_skirt, (铅笔裙)
+					- pleated_skirt, (百褶裙)
+				- ### 腿部和脚部
+				- legwear, (腿部服饰)
+					- animal_band_legwear, (动物带腿部服饰)
+						- cat_band_legwear, (猫带腿部服饰)
+					- tag_group:legwear, (腿部服饰标签组)
+				- ankle_lace-up, (踝部系带)
+				- garters, (吊袜带)
+					- garter_belt, (吊袜腰带)
+					- garter_straps, (吊袜带)
+					- leg_garter, (腿部吊袜带)
+				- kneehighs, (及膝袜)
+					- single_kneehigh, (单只及膝袜)
+				- leggings, (打底裤)
+				- leg_warmers, (腿部保暖)
+				- pantyhose, (连裤袜)
+					- fishnet_pantyhose, (网状连裤袜)
+				- socks, (袜子)
+					- ankle_socks, (踝袜)
+					- beoseon, (韩式尖头袜)
+					- bobby_socks, (波比袜)
+					- boot_socks, (靴袜)
+					- collared_socks, (领口袜)
+					- loose_socks, (松袜)
+					- single_sock, (单袜)
+					- tabi, (日式分趾袜)
+					- toe_socks, (脚趾袜)
+					- toeless_socks, (无趾袜)
+						- stirrup_socks, (吊带袜)
+					- tube_socks, (筒袜)
+				- spatterdashes, (溅射)
+				- thighhighs, (大腿袜)
+					- lace-trimmed_thighhighs, (蕾丝边大腿袜)
+					- lace-up_thighhighs, (系带大腿袜)
+					- loose_thighhigh, (松大腿袜)
+					- over-kneehighs, (过膝袜)
+					- single_thighhigh, (单只大腿袜)
+				- thigh_strap, (大腿带)
+				- zettai_ryouiki, (绝对领域)
+				- ### 鞋子
+				- black_shoes, (黑色鞋子)
+				- blue_shoes, (蓝色鞋子)
+				- brown_shoes, (棕色鞋子)
+				- green_shoes, (绿色鞋子)
+				- orange_shoes, (橙色鞋子)
+				- pink_shoes, (粉色鞋子)
+				- plaid_shoes, (格子鞋子)
+				- purple_shoes, (紫色鞋子)
+				- red_shoes, (红色鞋子)
+				- white_shoes, (白色鞋子)
+				- yellow_shoes, (黄色鞋子)
+				- ankle_strap, (踝带)
+				- ballet_slippers, (芭蕾舞鞋)
+				- boots, (靴子)
+					- ankle_boots, (踝靴)
+					- combat_boots, (战斗靴)
+					- cowboy_boots, (牛仔靴)
+						- spurs, (马刺)
+					- fur_boots, (毛靴)
+					- high_heel_boots, (高跟靴)
+					- lace_up_boots, (系带靴)
+					- leather_boots, (皮靴)
+					- rubber_boots, (橡胶靴)
+						- galoshes, (雨靴)
+					- thigh_boots, (大腿靴)
+					- knee_boots, (膝靴)
+				- clogs, (木屐)
+				- crocs, (卡骆驰)
+				- cross-laced_footwear, (交叉绑带鞋)
+				- flats, (平底鞋)
+				- high_heels, (高跟鞋)
+					- high_heel_boots, (高跟靴)
+					- high_heel_sandals, (高跟凉鞋)
+					- low_heels, (低跟)
+					- platform_heels, (厚底跟)
+					- stilettos, (细高跟)
+					- wedge_heels, (楔形跟)
+				- loafers, (乐福鞋)
+				- mary_janes, (玛丽珍鞋)
+				- moccasins, (软皮鞋)
+				- snow_shoes, (雪地鞋)
+				- platform_footwear, (厚底鞋)
+					- platform_heels, (厚底跟)
+				- pointy_shoes, (尖头鞋)
+					- danghye, (韩式尖头鞋)
+				- pumps, (泵鞋)
+				- saddle_shoes, (鞍鞋)
+				- sandals, (凉鞋)
+					- barefoot_sandals, (无底凉鞋)
+					- clog_sandals, (木屐凉鞋)
+					- flip-flops, (人字拖)
+					- geta, (日式木屐)
+					- gladiator_sandals, (角斗士凉鞋)
+					- high_heel_sandals, (高跟凉鞋)
+					- waraji, (日式草鞋)
+					- wide_strap_sandals, (宽带凉鞋)
+					- zouri, (日式木屐)
+				- shoe_ribbon, (鞋带)
+				- slippers, (拖鞋)
+				- animal_slippers, (动物拖鞋)
+				- sneakers, (运动鞋)
+					- Adidas, (阿迪达斯)
+					- Converse, (匡威)
+					- Nike, (耐克)
+					- Puma_AG, (彪马)
+					- Vans, (范斯)
+				- split-toe_footwear, (分趾鞋)
+				- t-strap_shoes, (T型带鞋)
+				- uwabaki, (日式草鞋)
+				- ### 制服和装扮
+				- Ballerina, (芭蕾舞者)
+					- ballet_slippers, (芭蕾舞鞋)
+					- tutu, (芭蕾舞裙)
+				- Band_uniform, (乐队制服)
+					- aiguillette, (肩章)
+					- shako_cap, (圆柱帽)
+				- Costume, (装扮)
+					- Angel_costume, (天使装扮)
+						- angel_wings, (天使翅膀)
+						- halo, (光环)
+						- fake_wings, (假翅膀)
+					- animal_costume, (动物装扮)
+						- animal_ears, (动物耳)
+							- bear_costume, (熊装扮)
+								- bear_ears, (熊耳)
+							- boar_costume, (野猪装扮)
+							- bunny_costume, (兔子装扮)
+								- bunny_ears, (兔耳)
+								- bunny_tail, (兔尾)
+							- cat_costume, (猫装扮)
+								- cat_ears, (猫耳)
+								- cat_tail, (猫尾)
+							- cow_costume, (牛装扮)
+								- cow_ears, (牛耳)
+								- horns, (角)
+								- cow_print, (牛纹)
+								- cow_tail, (牛尾)
+							- dog_costume, (狗装扮)
+								- dog_ears, (狗耳)
+								- dog_tail, (狗尾)
+							- fox_costume, (狐狸装扮)
+								- fox_ears, (狐耳)
+								- fox_tail, (狐尾)
+							- monkey_costume, (猴子装扮)
+							- mouse_costume, (老鼠装扮)
+								- mouse_ears, (鼠耳)
+							- panda_costume, (熊猫装扮)
+							- penguin_costume, (企鹅装扮)
+							- pig_costume, (猪装扮)
+							- reindeer_costume, (驯鹿装扮)
+								- antlers, (鹿角)
+							- seal_costume, (海豹装扮)
+							- sheep_costume, (绵羊装扮)
+							- tiger_costume, (老虎装扮)
+								- tiger_ears, (虎耳)
+								- tiger_print, (虎纹)
+								- tiger_tail, (虎尾)
+							- wolf_costume, (狼装扮)
+								- wolf_ears, (狼耳)
+								- wolf_tail, (狼尾)
+					- Cosplay, (角色扮演)
+					- Demon_costume, (恶魔装扮)
+						- demon_tail, (恶魔尾)
+						- demon_wings, (恶魔翅膀)
+						- fake_wings, (假翅膀)
+						- fake_horns, (假角)
+					- food_themed_clothes, (食物主题服装)
+						- cake_dress, (蛋糕裙)
+					- halloween_costume, (万圣节装扮)
+						- pumpkin_hat, (南瓜帽)
+					- kigurumi, (着物)
+					- mummy_costume, (木乃伊装扮)
+					- santa_costume, (圣诞老人装扮)
+						- fur_trim, (毛边)
+						- pom_pom, (绒球)
+						- santa_hat, (圣诞帽)
+					- witch_costume, (女巫装扮)
+						- witch_hat, (女巫帽)
+				- Cowboy/Cowgirl, (牛仔/女牛仔)
+					- bandanna, (头巾)
+					- bandolier, (子弹带)
+					- bolo_tie, (波洛领带)
+					- chaps, (护腿)
+					- cowboy_boots, (牛仔靴)
+					- cowboy_hat, (牛仔帽)
+						- stampede_string, (Stampede弦)
+					- duster, (防尘衣)
+					- spurs, (马刺)
+					- western, (西部风)
+				- Doctor, (医生)
+					- head_mirror, (头上镜)
+					- labcoat, (实验室外套)
+					- medical_scrubs, (医疗服)
+					- stethoscope, (听诊器)
+					- surgical_mask, (外科口罩)
+				- Gym_uniform, (运动服)
+					- buruma, (布鲁马)
+					- sweat_pants, (运动裤)
+				- Harem_outfit, (哈伦装)
+				- Maid, (女仆)
+					- apron, (围裙)
+						- maid_apron, (女仆围裙)
+					- maid_cap, (女仆帽)
+					- maid_headdress, (女仆头饰)
+				- Matador, (斗牛士)
+				- Miko, (巫女)
+				- Military_Uniform, (军装)
+					- Army, (陆军)
+					- camouflage, (迷彩)
+					- Marine, (海军陆战队)
+					- Navy, (海军)
+					- Samurai, (武士)
+						- kabuto, (日本武士头盔)
+					- Soldier, (士兵)
+					- Knight, (骑士)
+						- breastplate, (胸甲)
+						- helm, (头盔)
+						- (see list_of_armor), (查看盔甲列表)
+				- Nun, (修女)
+					- habit, (修女服)
+					- rosary, (念珠)
+				- Nurse, (护士)
+					- nurse_cap, (护士帽)
+					- medical_scrubs, (医疗服)
+					- stethoscope, (听诊器)
+					- surgical_mask, (外科口罩)
+				- Pilot_Suit, (飞行员服)
+					- plugsuit, (压力服)
+				- Police, (警察)
+					- badge, (徽章)
+					- police_uniform, (警服)
+				- Priest, (牧师)
+					- cassock, (法衣)
+					- mitre, (主教冠)
+					- stole, (领带)
+				- Sailor_Uniform, (水手服)
+					- dixie_cup_hat, (迪克西杯帽)
+					- sailor_collar, (水手领)
+				- School_Uniform, (校服)
+					- blazer, (西装外套)
+					- cardigan, (开衫)
+					- gakuran, (日本学生服)
+					- Meiji_schoolgirl_uniform, (明治女学生服)
+					- pleated_skirt, (百褶裙)
+					- sailor_dress, (水手裙)
+					- serafuku, (日本校服)
+					- uwabaki, (日本和服鞋)
+					- vest, (背心)
+						- sweater_vest, (毛衣背心)
+				- Sports_Uniform, (运动服)
+					- baseball_uniform, (棒球服)
+						- baseball_cap, (棒球帽)
+						- batting_helmet, (击球头盔)
+					- basketball_uniform, (篮球服)
+					- cheerleader, (啦啦队)
+					- football_uniform, (橄榄球服)
+						- football_helmet, (橄榄球头盔)
+					- soccer_uniform, (足球服)
+					- softball_uniform, (垒球服)
+						- batting_helmet, (击球头盔)
+					- jersey, (球衣)
+				- Track_Suit, (运动套装)
+					- sweatpants, (运动裤)
+					- sweatshirt, (运动衫)
+				- Waitress, (女服务员)
+				- Wedding_Dress, (婚纱)
+					- bridal_gauntlets, (新娘手套)
+					- veil, (面纱)
+					- wedding_kimono, (婚礼和服)
+				- Wrestler, (摔跤手)
+					- Luchador, (墨西哥摔跤手)
+						- luchador_mask, (墨西哥摔跤手面具)
+					- Sumo, (相扑)
+					- wrestling_outfit, (摔跤服)
+				- ### 泳装和身体
+				- apron, (围裙)
+					- smock, (罩衫)
+				- bikesuit, (自行车服)
+					- racing_suit, (赛车服)
+				- bodystocking, (紧身连衣裤)
+				- bodysuit, (紧身衣)
+				- cape, (斗篷)
+					- capelet, (短斗篷)
+					- hooded_cape, (带帽斗篷)
+				- cassock, (长袍)
+				- dress, (连衣裙)
+					- black_dress, (黑色连衣裙)
+					- blue_dress, (蓝色连衣裙)
+					- red_dress, (红色连衣裙)
+					- white_dress, (白色连衣裙)
+					- jumper, (跳跃)
+					- long_dress, (长裙)
+					- short_dress, (短裙)
+					- sweater_dress, (毛衣裙)
+					- tag_group:dress, (连衣裙标签组)
+				- leotard, (紧身衣)
+				- pajamas, (睡衣)
+					- kigurumi, (着物)
+					- nightgown, (睡袍)
+				- robe, (长袍)
+					- bathrobe, (浴袍)
+						- open_robe, (开袍)
+				- romper, (连体衣)
+				- swimsuit, (泳装)
+					- competition_swimsuit, (竞技泳装)
+					- cross_swimsuit, (十字泳装)
+					- polka_dot_swimsuit, (波点泳装)
+					- white_swimsuit, (白色泳装)
+					- school_swimsuit, (学校泳装)
+						- white_school_swimsuit, (白色学校泳装)
+					- bikini, (比基尼)
+						- leaf_bikini, (叶子比基尼)
+						- string_bikini, (绳结比基尼)
+							- micro_bikini, (微型比基尼)
+							- side-tie_bikini, (侧系比基尼)
+							- sling_bikini, (吊索比基尼)
+							- lowleg_bikini, (低腰比基尼)
+							- thong_bikini, (丁字比基尼)
+							- venus_bikini, (维纳斯比基尼)
+							- (See also the bikini tag for more examples.), (查看更多比基尼标签)
+					- checkered_bikini, (格子比基尼)
+					- polka_dot_bikini, (波点比基尼)
+					- sports_bikini, (运动比基尼)
+					- bikini_top, (比基尼上衣)
+					- tankini, (坦克尼)
+					- criss-cross_halter, (交叉挂脖)
+					- speedo, (竞速泳衣)
+					- wetsuit, (潜水服)
+					- (See also the swimsuit tag for more examples.), (查看更多泳装标签)
+					- sarong, (围裙)
+					- suit, (西装)
+						- black_suit, (黑色西装)
+						- blue_suit, (蓝色西装)
+						- pinstripe_suit, (条纹西装)
+						- red_suit, (红色西装)
+						- white_suit, (白色西装)
+						- yellow_suit, (黄色西装)
+						- business_suit, (商务西装)
+						- kilt, (苏格兰裙)
+						- lapel_pin, (翻领针)
+						- pant_suit, (裤装)
+						- skirt_suit, (裙装)
+						- tailcoat, (燕尾服)
+						- tuxedo, (晚礼服)
+						- waistcoat, (背心)
+					- tunic, (束腰外衣)
+					- ### 传统服装
+					- American continents clothes, (美洲服装)
+						- cowboy_boots, (牛仔靴)
+						- cowboy_hat, (牛仔帽)
+							- stampede_string, (Stampede弦)
+						- luchador_mask, (墨西哥摔跤手面具)
+						- Native_American_clothes, (印第安服装)
+							- annuraaq, (安努阿克)
+							- aztec, (阿兹特克)
+							- fur_parka, (毛皮大衣)
+							- moccasins, (软皮鞋)
+							- Native_American_headdress, (印第安头饰)
+						- sombrero, (墨西哥帽)
+					- Chinese_clothes, (中国服装)
+						- chinadress, (旗袍)
+						- forehead_mark, (额头标记)
+						- hanfu, (汉服)
+						- ikseongwan, (韩国传统帽)
+					- European_Clothes, (欧洲服装)
+						- clogs, (木屐)
+						- cravat, (领巾)
+						- ascot, (阿斯科特)
+						- dutch_cap, (荷兰帽)
+						- hennin, (高顶帽)
+						- medieval, (中世纪)
+						- tabard, (外衣)
+						- Finnish_clothes, (芬兰服装)
+						- French_clothes, (法国服装)
+							- musketeer, (火枪手)
+						- German_clothes, (德国服装)
+							- dirndl, (德国裙)
+							- lederhosen, (背带裤)
+						- Greek, (希腊)
+							- gladiator_sandals, (角斗士凉鞋)
+							- laurel_wreath, (月桂花环)
+							- peplos, (长袍)
+							- pteruges, (裙带)
+							- toga, (托加)
+							- stola, (外衣)
+					- Scottish_clothes, (苏格兰服装)
+						- kilt, (苏格兰裙)
+						- sporran, (苏格兰皮袋)
+					- Spanish_clothes, (西班牙服装)
+						- matador, (斗牛士)
+					- Indian_clothes, (印度服装)
+						- sari, (莎丽)
+					- Japanese_clothes, (日本服装)
+						- fundoshi, (日本兜裆布)
+						- yamakasa, (山笠)
+						- geta, (日式木屐)
+						- hachimaki, (日本头带)
+						- hakama, (日本裙裤)
+						- haori, (日本外衣)
+						- haramaki, (日本腹带)
+						- kimono, (和服)
+							- furisode, (振袖和服)
+							- multilayer_kimono, (多层和服)
+							- short_kimono, (短和服)
+							- tasuki, (日本腰带)
+							- wedding_kimono, (婚礼和服)
+							- yukata, (浴衣)
+						- kimono_skirt, (和服裙)
+						- kigurumi, (着物)
+						- Meiji_schoolgirl_uniform, (明治女学生服)
+						- miko, (巫女)
+							- nontraditional_miko, (非传统巫女)
+						- obi, (日本腰带)
+						- sarashi, (日本绷带)
+						- tabi, (日式分趾袜)
+						- tasuki, (日本腰带)
+						- tate_eboshi, (立乌帽子)
+						- tokin_hat, (头巾帽)
+						- uwabaki, (日式和服鞋)
+					- Korean_clothes, (韩国服装)
+						- beoseon, (韩式尖头袜)
+						- danghye, (韩式舞蹈鞋)
+						- gache, (韩式假发)
+						- hanbok, (韩服)
+						- jeonbok, (韩式鞋)
+						- Korean_traditional_hat, (韩国传统帽)
+							- ayam, (韩国传统帽)
+							- gat, (韩国传统帽)
+							- ikseongwan, (韩国传统帽)
+							- jeonmo, (韩国传统帽)
+							- jokduri, (韩国传统帽)
+						- maedeup, (韩式发饰)
+						- Mongolian_clothes, (蒙古服装) (Deel)
+							- boqtaq, (蒙古帽)
+							- djasal, (蒙古帽)
+					- Vietnamese_clothes, (越南服装)
+						- Vietnamese_dress, (越南裙)
+					- ### 珠宝和配饰
+					- Head and Face, (头部和面部)
+						- earphones, (耳机)
+							- ear_buds, (耳塞)
+						- earrings, (耳环)
+							- ear_studs, (耳钉)
+							- hoop_earrings, (环形耳环)
+						- facial_mark, (面部标记)
+							- forehead_mark, (额头标记)
+								- bindi, (印度宗教标记)
+						- glasses, (眼镜)
+							- pince-nez, (夹鼻眼镜)
+							- tag_group:glasses, (眼镜标签组)
+						- hair_ornament, (发饰)
+							- hairclip, (发夹)
+							- hairpin, (发针)
+						- makeup, (化妆)
+							- blush, (腮红)
+							- eyeliner, (眼线)
+							- eyeshadow, (眼影)
+								- blue_eyeshadow, (蓝色眼影)
+								- green_eyeshadow, (绿色眼影)
+								- red_eyeshadow, (红色眼影)
+								- yellow_eyeshadow, (黄色眼影)
+							- forehead_mark, (额头标记)
+							- lip_balm, (润唇膏)
+							- lipgloss, (唇彩)
+							- lipstick, (口红)
+								- black_lipstick, (黑色口红)
+								- blue_lipstick, (蓝色口红)
+								- green_lipstick, (绿色口红)
+								- orange_lipstick, (橙色口红)
+								- pink_lipstick, (粉色口红)
+								- striped_lipstick, (条纹口红)
+								- purple_lipstick, (紫色口红)
+								- red_lipstick, (红色口红)
+								- white_lipstick, (白色口红)
+								- yellow_lipstick, (黄色口红)
+						- mask, (面具)
+							- domino_mask, (多米诺面具)
+							- fox_mask, (狐狸面具)
+							- half_mask, (半面具)
+							- noh_mask, (能剧面具)
+							- ski_mask, (滑雪面具)
+							- surgical_mask, (外科口罩)
+						- monocle, (单片眼镜)
+						- nose_ring, (鼻环)
+					- Neck and Shoulders, (颈部和肩部)
+						- ascot, (阿斯科特)
+						- boa, (羽毛围巾)
+						- bowtie, (领结)
+						- cravat, (领巾)
+						- collar, (领子)
+							- detached_collar, (分离领子)
+							- fur_collar, (毛领)
+							- high_collar, (高领)
+							- open_collar, (开领)
+							- peter_pan_collar, (彼得潘领)
+							- popped_collar, (立领)
+							- sailor_collar, (水手领)
+							- spiked_collar, (带刺领)
+							- turtleneck, (高领)
+								- v-neck, (V领)
+								- wide_collar, (宽领)
+								- wing_collar, (翼领)
+								- epaulettes, (肩章)
+								- neck_ruff, (颈部褶边)
+								- neckerchief, (颈巾)
+								- necklace, (项链)
+									- chain_necklace, (链条项链)
+									- pearl_necklace, (珍珠项链)
+									- pendant, (吊坠)
+										- rosary, (念珠)
+								- necktie, (领带)
+								- scarf, (围巾)
+									- aqua_scarf, (水色围巾)
+									- black_scarf, (黑色围巾)
+									- blue_scarf, (蓝色围巾)
+									- green_scarf, (绿色围巾)
+									- orange_scarf, (橙色围巾)
+									- pink_scarf, (粉色围巾)
+									- plaid_scarf, (格子围巾)
+									- polka_dot_scarf, (波点围巾)
+									- purple_scarf, (紫色围巾)
+									- red_scarf, (红色围巾)
+									- striped_scarf, (条纹围巾)
+									- white_scarf, (白色围巾)
+									- yellow_scarf, (黄色围巾)
+										- cowl_neck_scarf, (斗篷围巾)
+										- infinity_scarf, (无限围巾)
+								- shawl, (披肩)
+								- tag_group:neck_and_neckwear, (颈部和领饰标签组)
+							- Limbs, (四肢)
+								- anklet, (踝饰)
+								- arm_belt, (臂带)
+								- armband, (臂环)
+								- armlet, (臂饰)
+									- spiked_armlet, (带刺臂饰)
+								- bracelet, (手镯)
+									- bangle, (手镯)
+									- spiked_bracelet, (带刺手镯)
+								- detached_sleeves, (分离袖子)
+									- arm_warmers, (臂套)
+									- puffy_detached_sleeves, (蓬松分离袖子)
+								- cuff_links, (袖扣)
+								- fingernails, (指甲)
+									- nail_art, (指甲艺术)
+									- nail_polish, (指甲油)
+										- aqua_nails, (水色指甲)
+										- black_nails, (黑色指甲)
+										- blue_nails, (蓝色指甲)
+										- french_nails, (法式指甲)
+										- green_nails, (绿色指甲)
+										- orange_nails, (橙色指甲)
+										- pink_nails, (粉色指甲)
+										- plaid_nails, (格子指甲)
+										- purple_nails, (紫色指甲)
+										- red_nails, (红色指甲)
+										- striped_nails, (条纹指甲)
+										- white_nails, (白色指甲)
+										- yellow_nails, (黄色指甲)
+								- gloves, (手套)
+									- boxing_gloves, (拳击手套)
+									- elbow_gloves, (肘部手套)
+									- fingerless_gloves, (无指手套)
+										- bridal_gauntlets, (新娘护手)
+									- spiked_gloves, (带刺手套)
+									- mittens, (连指手套)
+								- leg_belt, (腿带)
+								- muff_(handwarmer), (手捂)
+								- ring, (戒指)
+									- wedding_band, (结婚戒指)
+								- sleeve_garter, (袖口袜带)
+								- wristbands, (腕带)
+								- wrist_cuffs, (腕铐)
+							- Torso and Miscellaneous, (躯干及其他)
+								- belly_chain, (腹部链)
+								- belt, (腰带)
+									- buckles, (扣子)
+									- studded_belt, (带刺腰带)
+									- white_belt, (白色腰带)
+								- cutout, (剪裁)
+									- cat_cutout, (猫剪裁)
+									- cleavage_cutout, (乳沟剪裁)
+									- hip_vent, (臀部通风)
+								- haramaki, (日本腹带)
+								- pentacle, (五角星)
+								- piercing, (穿孔)
+								- sarong, (围裙)
+								- suspenders, (吊带)
+								- watch, (手表)
+									- wristwatch, (手腕表)
+									- pocket_watch, (怀表)
+								- Closures, Pins, Badges, etc., (扣子、别针、徽章等)
+									- aiguillette, (肩章)
+									- badge, (徽章)
+									- buttons, (纽扣)
+										- large_buttons, (大纽扣)
+									- denim, (牛仔布)
+									- fringe, (流苏)
+									- fur_trim, (毛边)
+									- lace, (蕾丝)
+										- lace_trim, (蕾丝边)
+									- maedeup, (韩式发饰)
+									- patch, (补丁)
+									- pin, (别针)
+										- brooch, (胸针)
+										- button_badge, (纽扣徽章)
+										- hat_pin, (帽子别针)
+										- lapel_pin, (翻领别针)
+										- safety_pin, (安全别针)
+									- pom_pom, (绒球)
+									- ribbon_trim, (丝带边)
+									- rickrack, (锯齿边)
+									- sequins, (亮片)
+									- silk, (丝绸)
+									- tassel, (流苏)
+									- toggle, (开关)
+									- zipper, (拉链)
+							- Patterns, (图案)
+								- argyle, (阿盖尔图案)
+								- asa_no_ha_(pattern), (朝日图案)
+								- bone_pattern, (骨头图案)
+								- camouflage, (迷彩)
+								- checkered, (格子)
+								- damask, (大马士革)
+								- floral_pattern, (花卉图案)
+									- fleur_de_lis_pattern, (鸢尾花图案)
+									- hanairi_kikkou, (花入菊图案)
+								- harlequin_(pattern), (哈勒金图案)
+								- hishi_(pattern), (菱形图案)
+								- honeycomb_pattern, (蜂窝图案)
+									- hanairi_kikkou, (花入菊图案)
+									- bishamon_kikkou, (毗沙门天菊图案)
+								- houndstooth, (犬牙)
+								- ogee, (S形)
+								- paisley, (佩斯利)
+								- plaid / tartan, (格子/塔特恩)
+								- polka_dot, (波点)
+								- sayagata, (紗綾形，交织万字符)
+								- seigaiha, (静香波，简化波浪)
+								- shippou_(pattern), (七宝文，重叠圆圈)
+								- striped, (条纹)
+									- diagonal_stripes, (对角条纹)
+									- double_vertical_stripe, (双垂直条纹)
+									- horizontal_stripes, (水平条纹)
+									- multicolored_stripes, (多彩条纹)
+									- pinstripe_pattern, (细条纹)
+									- two-tone_stripes, (双色条纹)
+									- vertical_stripes, (垂直条纹)
+								- unmoving_pattern, (不动图案)
+								- yagasuri, (箭羽)
+							- Prints, (印花)
+								- anchor_print, (锚印花)
+								- animal_print, (动物印花)
+									- bat_print, (蝙蝠印花)
+									- bear_print, (熊印花)
+									- bird_print, (鸟印花)
+										- crane_print, (鹤印花)
+									- bunny_print, (兔子印花)
+									- cat_print, (猫印花)
+									- cheetah_print, (猎豹印花)
+									- cow_print, (牛印花)
+									- deer_print, (鹿印花)
+									- dragon_print, (龙印花)
+									- fish_print, (鱼印花)
+									- horse_print, (马印花)
+									- leopard_print, (豹印花)
+									- tiger_print, (虎印花)
+									- paw_print, (爪印印花)
+									- snakeskin_print, (蛇皮印花)
+									- zebra_print, (斑马印花)
+								- butterfly_print, (蝴蝶印花)
+								- cloud_print, (云印花)
+									- egasumi, (海龟)
+								- cross_print, (十字印花)
+								- fan_print, (扇子印花)
+								- flag_print, (旗帜印花)
+								- floral_print, (花卉印花)
+									- kikumon, (菊花纹章)
+									- rose_print, (玫瑰印花)
+								- food_print, (食物印花)
+									- candy_print, (糖果印花)
+									- fruit_print, (水果印花)
+										- apple_print, (苹果印花)
+										- carrot_print, (胡萝卜印花)
+										- cherry_print, (樱桃印花)
+										- grape_print, (葡萄印花)
+										- lemon_print, (柠檬印花)
+										- orange_print, (橙子印花)
+										- pineapple_print, (菠萝印花)
+										- watermelon_print, (西瓜印花)
+										- strawberry_print, (草莓印花)
+								- goshoguruma, (车轮)
+								- hand_print, (手印)
+								- moon_print, (月亮印花)
+								- musical_note_print, (音符印花)
+								- piano_print, (钢琴印花)
+								- pumpkin_print, (南瓜印花)
+								- skeletal_print, (骨骼印花)
+								- skull_print, (骷髅印花)
+								- snowflake_print, (雪花印花)
+								- spider_web_print, (蜘蛛网印花)
+								- star_print, (星形印花)
+								- trefoil, (三叶草)
+								- radiation_symbol, (辐射符号)
+								- wheel_print, (轮子印花)
+								- Clothing States, (服装状态)
+									- burnt_clothes, (烧焦的服装)
+									- torn_clothes, (撕裂的服装)
+									- naked_apron, (裸露的围裙)
+									- naked_sweater, (裸露的毛衣)
+									- off_shoulder, (露肩)
+									- open_clothes, (敞开的服装)
+										- open_collar, (开领)
+										- open_jacket, (敞开的夹克)
+										- open_shirt, (敞开的衬衫)
+										- undone_necktie, (未打领带)
+										- loose_necktie, (松领带)
+									- sleeves_past_wrists, (袖子过手腕)
+									- sleeves_pushed_up, (袖子推上去)
+									- unbuttoned, (解开扣子)
+									- unzipped, (未拉链)
+								- Misc, (杂项)
+									- asymmetrical_clothes, (不对称服装)
+									- center_frills, (中心褶皱)
+									- casual, (休闲)
+									- cross-laced_clothes, (交叉绑带服装)
+									- impossible_clothes, (不可能的服装)
+									- layered_clothes, (层叠服装)
+									- loincloth, (腰布)
+									- meme_attire, (梗服装)
+									- oversized_clothes, (超大服装)
+									- undersized_clothes, (过小服装)
+									- see-through, (透视)
+									- taut_shirt, (紧身衬衫)
+- dress
+  collapsed:: true
+	- ### 按颜色和材质
+	- black_dress, (黑色连衣裙)
+	- blue_dress, (蓝色连衣裙)
+	- brown_dress, (棕色连衣裙)
+	- green_dress, (绿色连衣裙)
+	- grey_dress, (灰色连衣裙)
+	- orange_dress, (橙色连衣裙)
+	- pink_dress, (粉色连衣裙)
+	- purple_dress, (紫色连衣裙)
+	- red_dress, (红色连衣裙)
+	- white_dress, (白色连衣裙)
+	- yellow_dress, (黄色连衣裙)
+	- beaded_dress, (珠饰连衣裙)
+	- print_dress, (印花连衣裙)
+		- checkered_dress, (格子连衣裙)
+		- gradient_dress, (渐变连衣裙)
+			- ombre, (渐变色)
+		- lace_dress, (蕾丝连衣裙)
+		- plaid_dress, (格子连衣裙)
+		- polka_dot_dress, (波点连衣裙)
+		- striped_dress, (条纹连衣裙)
+	- sweater_dress, (毛衣连衣裙)
+	- velvet_dress, (天鹅绒连衣裙)
+	- ### 按款式
+	- armored_dress, (装甲连衣裙)
+	- ball_gown, (舞会礼服)
+	- bubble_dress, (泡泡裙)
+	- bustle_dress, (后摆裙)
+	- coat_dress, (外套式连衣裙)
+	- china_dress, (旗袍)
+		- cheongsam, (长衫)
+		- qiipao, (旗袍)
+	- dirndl, (德国裙)
+	- frock, (罩衫)
+	- frilled_dress, (荷叶边连衣裙)
+	- gown, (长袍)
+	- hanbok, (韩服)
+	- hanfu, (汉服)
+	- jumper, (跳线)
+	- kimono, (和服)
+		- furisode, (振袖和服)
+		- multilayer_kimono, (多层和服)
+		- short_kimono, (短和服)
+		- wedding_kimono, (婚礼和服)
+		- yukata, (浴衣)
+	- long_dress, (长裙)
+	- Mongolian_clothes, (蒙古服装)
+		- deel, (蒙古袍)
+	- nightgown, (睡袍)
+	- open-back_dress, (露背裙)
+	- princess_dress, (公主裙)
+	- sailor_dress, (水手裙)
+	- sari, (莎丽)
+	- short_dress, (短裙)
+		- micro_dress, (超短裙)
+	- strapless_dress, (无肩带裙)
+	- stola, (罗马长袍)
+	- sundress, (夏日连衣裙)
+	- toga, (托加)
+	- tutu, (芭蕾舞裙)
+	- Vietnamese_dress, (越南服装)
+		- Áo dài, (越南长衫)
+	- wedding_dress, (婚纱)
+		- bridal_gauntlets, (新娘手套)
+		- veil, (面纱)
+		- wedding_kimono, (婚礼和服)
+- 构图图片技巧等（重要）
+  collapsed:: true
+	- 以下是各种图像技巧的列表，这些技巧可能出现在图像上、周围或内部：
+	- ### 角度/透视/深度
+	- dutch_angle, (荷兰角)
+	- fisheye, (鱼眼镜头)
+	- from_above, (从上方)
+	- from_behind, (从后方)
+	- from_below, (从下方)
+	- perspective, (透视)
+	- pov, (视角)
+	- ### 构图
+	- border / frame, (边框/框架)
+	- fading_borders, (渐变边框)
+	- red_border, (红色边框)
+	- rounded_corners, (圆角)
+	- viewfinder, (取景器)
+	- chart, (图表)
+	- bust_chart, (半身像图表)
+	- character_chart, (角色图表)
+	- diagram, (图解)
+	- move_chart, (动作图表)
+	- popularity_graph, (人气图表)
+	- relationship_graph, (关系图表)
+	- seating_chart, (座位图表)
+	- stats, (统计)
+	- turnaround, (转向)
+	- collage, (拼贴)
+	- column_lineup, (列队)
+	- cropped, (裁剪)
+	- fake_scrollbar, (假滚动条)
+	- head_out_of_frame, (头部出框)
+	- out-of-frame_censoring, (框架外审查)
+	- outside_of_border, (边框外)
+	- letterboxed, (信箱格式)
+	- pillarboxed, (柱箱格式)
+	- windowboxed, (窗口格式)
+	- lineup, (排队)
+	- minimalism, (极简主义)
+	- symmetry, (对称)
+	- mirror_opposites, (镜像对称)
+	- rotational_symmetry, (旋转对称)
+	- zoom_layer, (缩放层)
+	- projected_inset, (投影内嵌)
+	- ### 格式
+	- 3d, (3D)
+	- animated, (动画)
+	- animated_png, (动画PNG)
+	- flash, (Flash)
+	- song, (歌曲)
+	- video, (视频)
+	- animated_gif, (动画GIF)
+	- archive, (档案)
+	- artbook, (画册)
+	- calendar, (日历)
+	- card_(medium), (卡片)
+	- comic, (漫画)
+	- 4koma, (四格漫画)
+	- 3koma, (三格漫画)
+	- 5koma, (五格漫画)
+	- multiple_4koma, (多重四格漫画)
+	- doujinshi, (同人志)
+	- manga, (漫画)
+	- eromanga, (成人漫画)
+	- left-to-right_manga (LTR Japanese/Chinese works), (从左到右的漫画)
+	- right-to-left_comic (RTL Western/Korean works), (从右到左的漫画)
+	- silent_comic, (无声漫画)
+	- cover, (封面)
+	- album_cover, (专辑封面)
+	- back_cover, (背面封面)
+	- blu-ray_cover, (蓝光封面)
+	- box_cover, (盒子封面)
+	- character_single, (角色单曲)
+	- cover_page, (封面页)
+	- disc_cover, (碟片封面)
+	- doujin_cover, (同人封面)
+	- dvd_cover, (DVD封面)
+	- fake_cover, (假封面)
+	- front_cover, (前封面)
+	- game_cover, (游戏封面)
+	- magazine_cover, (杂志封面)
+	- manga_cover, (漫画封面)
+	- novel_cover, (小说封面)
+	- vhs_cover, (录像带封面)
+	- volume_cover, (卷册封面)
+	- fake_screenshot, (假截图)
+	- game_cg, (游戏CG)
+	- highres, (高分辨率)
+	- absurdres, (荒谬分辨率)
+	- incredibly_absurdres, (难以置信的荒谬分辨率)
+	- lowres, (低分辨率)
+	- thumbnail, (缩略图)
+	- huge_filesize, (巨大文件大小)
+	- icon, (图标)
+	- logo, (标志)
+	- kirigami, (剪纸)
+	- lineart, (线稿)
+	- no_lineart, (无线稿)
+	- outline, (轮廓)
+	- long_image, (长图)
+	- tall_image, (高图)
+	- wide_image, (宽图)
+	- mosaic_art, (马赛克艺术)
+	- photomosaic, (照片马赛克)
+	- oekaki, (手绘)
+	- official_art, (官方艺术)
+	- phonecard, (电话卡)
+	- photo_(medium), (照片)
+	- papercraft, (纸艺)
+	- paper_child, (纸娃娃)
+	- paper_cut-out, (剪纸)
+	- pixel_art, (像素艺术)
+	- postcard, (明信片)
+	- poster, (海报)
+		- ad, (广告)
+		- giant_poster, (巨幅海报)
+		- movie_poster, (电影海报)
+		- poster_(object), (海报物体)
+		- promotional_art, (宣传艺术)
+		- propaganda, (宣传)
+		- public_service_announcement, (公共服务公告)
+		- resized, (调整大小)
+		- revision, (修订)
+		- scan, (扫描)
+		- screencap, (屏幕截图)
+		- shitajiki, (湿纸)
+		- stitched, (缝合)
+		- tegaki, (手信)
+		- template, (模板)
+		- transparent_background, (透明背景)
+		- triptych_(art), (三联画)
+		- vector_trace, (矢量追踪)
+		- wallpaper, (壁纸)
+		- dual_monitor, (双屏)
+		- tileable, (可平铺)
+		- widescreen, (宽屏)
+	- ### 主题
+	- cityscape, (城市景观)
+	- landscape, (风景)
+	- nature, (自然)
+	- no_humans, (无人)
+	- scenery, (风景)
+	- still_life, (静物)
+	- ### 人物构图
+	  
+	  按视野范围递增顺序：
+	- eye_focus (Partial face, must include eyes), (眼部特写，必须包含眼睛)
+	- portrait (Face through shoulders), (肖像，从脸部到肩部)
+	- upper_body (Face through torso), (上半身，从脸部到躯干)
+	- lower_body (From torso down), (下半身，从躯干以下)
+	- cowboy_shot (Face through thighs), (牛仔视角，从脸部到大腿)
+	- feet_out_of_frame (Face to below knee), (脚部出框，从脸部到膝盖以下)
+	- full_body (Whole body), (全身)
+	- wide_shot (Whole body from far away), (广角，全身远离)
+	- very_wide_shot (Whole body from very far away), (超广角，全身非常远离)
+	- close-up, (特写)
+	- cut-in, (切入)
+	- head_out_of_frame, (头部出框)
+	- profile, (侧面)
+	- group_profile, (群体侧面)
+	- ### 风格
+	- abstract, (抽象)
+	- art_nouveau, (新艺术)
+	- fine_art_parody, (美术作品模仿)
+	- flame_painter, (火焰画师)
+	- nihonga, (日本画)
+	- sumi-e, (墨绘)
+	- ukiyo-e, (浮世绘)
+	- realistic, (现实主义)
+	- photorealistic, (照片现实主义)
+	- sketch, (素描)
+	- style_parody, (风格模仿)
+	- List_of_style_parodies, (风格模仿列表)
+	- surreal, (超现实)
+	- traditional_media, (传统媒介)
+	- acrylic_paint_(medium), (丙烯颜料)
+	- airbrush_(medium), (喷枪)
+	- ballpoint_pen_(medium), (圆珠笔)
+	- brush_(medium), (画笔)
+	- calligraphy_brush_(medium), (书法笔)
+	- canvas_(medium), (画布)
+	- card_(medium), (卡片)
+	- chalk_(medium), (粉笔)
+	- charcoal_(medium), (木炭)
+	- colored_pencil_(medium), (彩色铅笔)
+	- color_ink_(medium), (彩色墨水)
+	- crayon_(medium), (蜡笔)
+	- fountain_pen_(medium), (钢笔)
+	- faux_traditional_media, (仿传统媒介)
+	- gouache_(medium), (水粉)
+	- graphite_(medium), (石墨)
+	- ink_(medium), (墨水)
+	- marker_(medium), (记号笔)
+	- millipen_(medium), (小米笔)
+	- nib_pen_(medium), (尖头笔)
+	- oil_painting_(medium), (油画)
+	- opencanvas_(medium), (开放画布)
+	- paint_(medium), (颜料)
+	- pastel_(medium), (粉彩)
+	- pencil_crayon_(medium), (铅笔蜡笔)
+	- porcelain_(medium), (瓷器)
+	- watercolor_(medium), (水彩)
+	- watercolor_pencil_(medium), (水彩铅笔)
+	- whiteboard_(medium), (白板)
+	- ### 技巧
+	- backlighting, (逆光)
+	- blending, (混合)
+	- bloom, (开花)
+	- bokeh, (散景)
+	- caustic_lighting, (焦散照明)
+	- diffraction_spikes, (衍射尖峰)
+	- depth_of_field, (景深)
+	- dithering, (点阵)
+	- foreshortening, (透视缩短)
+	- gradient, (渐变)
+	- halftone, (半色调)
+	- lens_flare, (镜头光晕)
+	- motion_blur, (运动模糊)
+	- motion_lines, (运动线)
+	- multiple_monochrome, (多重单色)
+	- optical_illusion, (光学幻觉)
+		- anaglyph, (立体图像)
+		- exif_thumbnail_surprise, (EXIF缩略图惊喜)
+		- open_in_internet_explorer, (在IE中打开)
+		- stereogram, (立体图)
+		- scanlines, (扫描线)
+	- silhouette, (剪影)
+	- vignetting, (晕影)
+	- ### 传统日本图案
+	- asa_no_ha_(pattern), (朝日图案)
+	- egasumi, (海龟)
+	- genjiguruma, (旋转木马)
+	- goshoguruma, (车轮)
+	- kikumon, (菊花纹章)
+	- sayagata, (紗綾形)
+	- shippou_(pattern), (七宝文)
+	- seigaiha, (静香波)
+	- yagasuri, (箭羽)
+	- ### 缺陷
+	- Artifacts, (人工制品)
+		- gif_artifacts, (GIF人工制品)
+		- jpeg_artifacts, (JPEG人工制品)
+		- resizing_artifacts, (调整大小人工制品)
+		- scan_artifacts, (扫描人工制品)
+	- crease, (折痕)
+	- sketch_artifacts, (素描人工制品)
+	- bad_aspect_ratio, (不良宽高比)
+	- blurry, (模糊)
+	- censored / uncensored, (审查/未审查)
+		- tag_group:censorship, (审查标签组)
+	- derivative_work, (衍生作品)
+	- duplicate, (重复)
+	- error, (错误)
+	- bad_reflection, (不良反射)
+	- polydactyly, (多指)
+	- typo, (错别字)
+	- lossy-lossless, (有损-无损)
+	- macro, (宏)
+	- photoshop, (Photoshop)
+	- nude_filter, (裸体滤镜)
+	- poorly_drawn, (画得差)
+		- bad_anatomy, (解剖不良)
+		- bad_feet, (脚画得差)
+		- bad_hands, (手画得差)
+		- bad_proportions, (比例不良)
+	- quality, (质量)
+	- ranguage, (俚语)
+	- engrish, (Engrish)
+	- resized, (调整大小)
+	- pixiv_manga_sample, (Pixiv漫画样本)
+	- pixiv_thumbnail, (Pixiv缩略图)
+	- reversed, (反转)
+	- unmoving_pattern, (不动图案)
+	- watermark, (水印)
+	- ### 背景/颜色
+	- Tag_group:Backgrounds, (背景标签组)
+	- Tag_group:Colors, (颜色标签组)
